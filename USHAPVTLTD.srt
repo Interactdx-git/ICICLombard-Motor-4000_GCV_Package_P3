@@ -44,7 +44,7 @@
 <SectionHeader>
 <SectionBand Height="2.986111" Visible="true" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="false" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="1">
 <ImageElement ID="Image1" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-12" Foreground="-16777216" PathType="1" Embedded="true" Layout="0" Wrapping="3" Rotation="0" Size="4.0694447x0.9444444" Margin="0,0,0,0">
-<![CDATA[F:\Ajinkya\alerts\Mail Alert PDF\RBL_logo.PNG]]>
+<![CDATA[F:\gyanvikash\alerts\Mail Alert PDF\RBL_logo.PNG]]>
 <property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
 <property><name><![CDATA[grow]]></name><value><![CDATA[false]]></value></property>
 <Image Width="409" Height="134">
