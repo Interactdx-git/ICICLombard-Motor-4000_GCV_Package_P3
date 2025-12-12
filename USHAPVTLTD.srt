@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report Type="StyleSheet" Top="1.0" Left="0.2" Bottom="0.8" Right="0.2" HeaderFromEdge="0.0" FooterFromEdge="0.0" PageNumbering="0" HorizontalWrap="true" PaperSize="8.267716x11.692913" Orientation="1" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0"
+ Prompting="true"><Version>10.2</Version>
+<onLoad><![CDATA[//var pgcnt=0;]]></onLoad>
+<ReportProperty Name="report.author">
+<![CDATA[c21072]]>
+</ReportProperty>
+<ReportProperty Name="default.zoom">
+<![CDATA[1.0]]>
+</ReportProperty>
+<ReportProperty Name="report.modifiedUser">
+<![CDATA[ajinkya.davitkar]]>
+</ReportProperty>
+<ReportProperty Name="TextMode">
+<![CDATA[false]]>
+</ReportProperty>
+<ReportProperty Name="calcAutoExpand">
+<![CDATA[true]]>
+</ReportProperty>
+<ReportProperty Name="edit.layout">
+<![CDATA[false]]>
+</ReportProperty>
+<ReportProperty Name="live.edit">
+<![CDATA[false]]>
+</ReportProperty>
+<ReportProperty Name="report.modified">
+<![CDATA[2024-09-18 10:58:42]]>
+</ReportProperty>
+<ReportProperty Name="report.created">
+<![CDATA[2024-06-05 11:49:13]]>
+</ReportProperty>
+<Parameters>
+</Parameters>
+<ParameterSheets>
+</ParameterSheets>
+<RunningTotals>
+</RunningTotals>
+<reportAssetRepository>
+</reportAssetRepository>
+<Header Type="256">
+<SectionElement ID="Section10" Alignment="1" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Dialog-PLAIN-10" Foreground="-16777216" AdhocEnabled="true">
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<Section>
+<SectionHeader>
+<SectionBand Height="2.986111" Visible="true" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="false" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="1">
+<ImageElement ID="Image1" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-12" Foreground="-16777216" PathType="1" Embedded="true" Layout="0" Wrapping="3" Rotation="0" Size="4.0694447x0.9444444" Margin="0,0,0,0">
+<![CDATA[F:\Ajinkya\alerts\Mail Alert PDF\RBL_logo.PNG]]>
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[false]]></value></property>
+<Image Width="409" Height="134">
+<![CDATA[GhVMtGEc@_[I3qK+7J(\mPsB=O?-@DlC>JeX+M[<%RNMC-j3'd#n.)n:?pX"<gF:7OUW.D%*$q-YVFN,
+!s/VJTbTVDb.75Kn'/E:Y#`_bcFXU6Qo"/4;e)i>/*p@qJ*U<SY.4OHd\KHu-;BpcC!reKP9s"m1hkC6
+8WtJqRP\a,Ue-as9q!nQd\KHu-;BpcC!reKP9s"m1hkC68WtJqRP\a,Ue-as:"oV"B!,tK;/UF)OZ1/D
+=p7i9-]Aebpj)ILYjRABTd!).<$3&+kF[8kqb"rQ/PVZjBp(361")jhP9s!Z7[c/Jd\KIS8B+2a-;Bq>
+N+@l(C!reKPDkVN9q!nQOti+Sd\KHu-5e$G,>FU`C!n8:Ue-as9q#UOA;i?Zd\KIS8B+2a-;BpcaV\a?
+Ue-as)'^"D9q!nQdNi=u8WtJqg4)E.fU_]>3?)D+lmB_o^ei^C7BO>@l7MH<99R4-AkS)QkX*$6`0j$a
+mrk9rGuAnX\B!hu2*(2iA&!EKP*9/2>Oi#+Y4#u>s._1DLHCYG9q!nQrt<>]$C]p)BL-fE)_=u@83_A'
+DXMro:!\:l+)Nq^fFfC<`.`_=ktaa9'[f"+/"3O/"Or)KfVEQWB-9Y-9p)s455]%KTtans*XPDD,K8o.
+(d/b1(Ii)qEW,!_9hB">O/[4P.?8'HP!kNs6GJ;PifYW_R^A]S0fCDaKfm9+N_EL^192>`o@Df.h%Lk<
+4N'7I-iFar.;#UprCN2$PIMf']C#uO,,)$TLa6[TdNC#t*gJZ.hS\eV194C!<@'+WWUP)qDu-@;kP)$o
+;t#?XD*Q6)NHN/pG#]>;6N%JSP&Ye#69c4\_2p!<R^A]K1&ptsSbVY$GN/Y%m_F\)Asc3VZ(gXq4M,kh
+KH,fQP&QV3ao*+_31S%Q^Nf=Z/h)6\<*'X9PZ6&<Nln;0!L+!eGTuQ#/`J(5'HgG0Zn:M%4qmdIhoD:/
+UlY;Kcp9+`nIK59r:iH3PoblRUVn%l(hqEo8c'qSF&MZ<9W;o!7TDMYc6eq%Q=K0:2t52ST*c%$W8."+
+UQFm[*[M:moL<(sSO%7&K7NG:]iHGMU5$Q2;r[FS&lFPb@<+#H:lNpQ_F;5*rgkBL)"uI&"HZ1/BV*R3
+k7[W!O@VE/F\dm'+u//BdP_D+h^ESoaeTo;OX<ek[%EL9l'77LW$Jg]g0c8I=NZt=EQ]<Ro]2oZ1a><d
+Qn=3`&Q1#cH;&9IN4d+$S,i*_WL,Z%+28o>84<*8Kdk:PBKK_8&lS@>Y@D)98M-PWje<iV[h[:qeN&ga
+*p]:g.%83L0cqCq$YpYLOX'kRUe-dD?\'q71KGWBq?f24Ro*A%'STZtESo32Z$,a9Jdm#:QHgG*a8@-5
+O3eu(J_k=<rq.p@hL6-c#Ibhgp(;NfefsV!Z\Z9n-`BN?JOiK(U%aWfD/8#tl^G<1](uq^oU/MFm)raE
+gUBB5lO>(0Ll*X\DQnf.k9.SbWca1*OYZ`G&jcur=O(HOn4U_QAQP9VC!rgUUl;QXYCO<t)+E(m-nMPh
+Ic8VXAGNF5OVkua>g]?*riV>8;1*hGH3Y&;EsRo1miqV+h]_^a0+`R,@78\J8*JeV";fTur8sjF[VS4e
+`RbYcI$g^#=QBPM4tq`1D/\I;L=^GBdT<ZSrHDr?ILArc\.(+)p'omWE#8NM`I;8k0+R`9@UR-6#\f\d
+M3F`ul4?%s(R;?@HW#)TN:AF:T`i1XQI'[RUe-as:"iC_Qmm=*Qr;FkbYrgq3Ot,k9`l<'?Gi(a510TC
+&(jC&,=d:1^P9>^-,c-5KVP^!d9f!<6^A&f)bMfI;$?WX,)iFb@b<jb_fOsKAF4[G%W4c>j7"4HXh+ck
+F8fsB2J3Eg:Kn:/CB_osors`8L;S9Ynn[[0R?t;=ZC=nTJZ&O"(Z*f!_]E2:W/p7?0LHG_A$L\/MFpZb
+miD@c.ffd)*^h3R[Ua<E1hkC6rR?ctYC7$sXp8oD=U-]3)e#^ON;L4n`o^q6N:;C)7)/L(M._YqmHY=s
+F#eWSk/29.ob]9$@6CG-?=O#kL0TZTZJj*MJNGY0j7Xt4k?J8<]![>8pkEn;3:S,K06[!J_V9MKf-QKn
+3hleFc4rl'Dh>sY#+MY.=k,)P3NWstF1X/RhW)-BNb;4ul5a]rnc=46eecuDB,H'7Uh^5o1"%W3GSi0p
+T0a5jP@;lk+iNCA,SD8;*(T-D99U\sg/#kYbVNToqC0bMhm6N@V0EjdeT]uT[D0MG?bHop-_J3Si[]gk
+\H!f)GmIrH@E;Q06$!Wc=bR,`o+9#_^h:$jD6h#gYestpL=]`As.$,%>dkUY0a?o&86k)BDi`n04't;,
+lj&VLZN;M>PF"/E;R6k!C@\BI0NIb\:tCK1U./[X1r<,GL3'QNJE<oZiHKe*NGZ;?#c2PJic0X:R)jBu
+k$@8D,ZhkZKMQ=1Ue-dD;_c9o[L1%FPq^b>TsSDTcE+`$)c*)a=3mIri$i^YW&g94;#lY')]n!p2o>b/
+q4KSaUZO-&M(?IZ.ur=83'oij=R>6qPbS2`X3eUi2$1JK&cmAF.#.-DO(-\7B2NrrC)C`P,-AL!Bk<8X
+\^nPu\H[eGFi'+Ql]G>aMLP#F]lkuJVlrMYaX_>qXDXPTjVg8PMlh6sO#o'/9YqlIMV8%:,lpH^-d%6:
+1Q%L6-;BpcC!qGc`gDWf@4>K5r#&.HC<`lj](.=5;_f$T(7gMZ[0h@].E9h1(cRi?[[?$s0Yj/q5X-u9
+=>7aG+fc&B**+%S0udOS^.YZLd>_r"leOkL+ohc+f`',mb[1'$W\3Oe\`S?O<7E))X9#1jigb'IEFg_A
+ANg"+JUXa;O4f=D(0;lB-$@;/>)p70b>Hmi4)B6>A*iFj@*fQQ.'=\a80F$ckk/fbq>ug7d\KHup6.6Y
+]Cm#i<6[dG_=`&lIMqjVT8u6,/X/pV`m&+S=A1\`bJ55TA1TeI,Gm"#)m[k(/\maM!&7t,!p2Vn3B7AB
+AL!G*#:6,`d?ur0^[>Mu%ebeV@pB#lg[,*QCr)=&5-p#hYlo5_")J]HoWo4^M@LIqgL5)F^fEn=46r!m
+>`+K_qrhZ3%-<Pc>.Ft5WqDaBHNu*5$ZX`Dok<T8)1VL%%m6Gf2U!8`Z".X<=!gY11hlt(1R5Ge<7)1c
+'mhHiXq`Y#)Ne1U!40#"Gg_2&C5UPAba'!bEAjPA@f1iKfiVF(&RNPl!:S[f6Ef?YG`3@C)+u\r[UI[%
+`IO4U@rl&5SqAar2TC\9oN3h;/O]p^\K<C>DJK^`RH,62n/7bc?@2k1CH!KDs+'=R&rcX0!12QN"k,*l
+L:qm>nYC`K$'r^D3i3D8/T"ZT[B#Q0dm.*6SfVB[LUgjrS];Xpr@4TXh%+T&&ie3T`:XK[_o`5@`lF\m
+`9t=6@N$Y]#LH'Lk]8T"4AY?*nXNDJ#AO8.hqDR<qacnt:"nK/B(8LP):Q0Y;;4Q&=cTI]pZ"Zn]s(IT
+/73sXTAG,J2(]N_lVL`5+&4Eb3HdKActC\DJ5,W$nf_d$L5?kEk$6mSn\^S!O7$=!rA<YF`9O/MP[__$
+:VY@oM*HH8O2mE="6MoiR<97!euVA`pDu'GcfG/@h(aF?G<UTCg"im^/0tcaM7!IA\W.-hcW!PRX<KQ'
+2SrSQ6JQC2Xh9Fr:)E8^D=gp\1.pg$W`@!`DG2K(G#gIFn)P3cg@6LJD>>[`6#Ch7VGXb4c`,n*ct\uf
+j)OU111.P`9bm=c(!.>-d\KJ3HQ>IW`TX,m>LA:db'':ObH[PgL07!,;_4j0e"*&N+q<RQ/]MX]o?`eM
+,nAW:d/O2q)>X;?bQ.0EcqIW_PY]V<_ddj4P3,"X4WD;9'"BU*%\ZT-6.r`>@XV5J?SQ%C^#LQkbZYHk
+FWE36Km;#mN]5G+)N4SArPe+8HA;'MX[6NVc.NFSBcTiX-h1mc9[u;u^,BL/]lQE`]Q>I^bZg.c]^[:3
+q/eiqXCpP5FA.jb&e9[cXj!#i@;"FN?]t8$7)"2QF!aVM1hk!u\Z.s*V76UFjW4+<e(S6)Gb%VK`^!eN
++T@a$]22J`KJQmu7p"O^GhI7(NnEoP:rE4oN60%9EtJUIYDa'']Z+cM?PYlRMV(K1GYM`Tc^>16_8hX"
+Du`GI`;%E_3sK]hm8'M>i\dqQs%Js77XRcTQ3^g,RO8q^-0A<8*QK!qd0dLd$]aLi=DLtOB6oA**Cq]a
+_hj(k,HGPkMJ(:]Xa(@/rVBFq6\Mj=-"`Mp?E[FLAocd2KLATe(=NEroO;S+o-@&!1hi/UYbDX'c8tm4
+g'4'4EB:^B-*k^@OR69^;]3"Cb?@d)]GL0tk2Y(E9<d/M$]gteK@XOK&U^iuHsn,G))H0Y3$VNmHuUrP
+kk@C*&&$S1ab%iT8*D3+Jl?n&V\n8Nf-.Hq+fP9^;m6dgnW@a6%,nJqc_KWs%:U<s<7(^knKXTlQsSX(
+[#-2@<]7creHAB:-TULZQ*?R`_d'JK<n9.2:8F.4dq_OQM>fAAd>W6B/\W0&$>tXjoQn`oH364[]oPrQ
+mmALheB;PQ&`Yo.WjYH%+qZ+*KgkqXPoaF`,P'9Y8WtJqg@q\!oEoB"s#-th5GK'd>LJApZIQm]ou*1,
+A<j:4"m*4eY2EK2A3(M/"t-,_q1:&JPPF^`b*[X(I)qJ'EE`o8('hAjJLMB0VV3_;.E;.Zf-7GE1R&!R
+8Ak3[`p@6UquS_l&n<DY0jWkraE2T^2:BpD.l886a)A0G&=g#RCFj&8QssMuKuTLZAPJOq:>2eL'dh@E
+[Zfs\P5B2riEaO,=c+(5G2nV[?cQr3fRY87?:5F+<aeqg[;WF["VQ^4(ff)84N85k9dWT'1hki+HW__A
+#;U$1_be#\f#e`K.TqDZr.e,4Cdr:'rRd9_)Eu5_+^o=4R@XLSeb[0]I:FLcqT)S5A:cPu@uO"TQouOd
+UgZ`o%Lh$H.lJnIN:bT[^`IhGH8!#?K+Dib[!)bJqF(>s1Zn74?:=2VRp[Q)fpk40<N^n$g3VC>s&THL
+eL`ITYCM>uh`/BPU_Un4(=Fq^`$Nh_Q0lYk=FkSb.AVYQWeiO\]3qelge^bL-V\+pD)?Iaj&l3"Y;#21
+CWih7B>cj#g5=2R82M)M/?\`>l(spsB;A+_-LH%6=0/27]Fp7IA[&c2OC$HC/&g2simkQ7oH)dcZ2fBr
+.Dp@4\Hl=o&^/6^@VUI%M;ZNeT>[,e8Y4oLl^Au42X)(<Mp[Djc>g;H`4-4?heO`2s5hj@m%M[[+5/0p
+C?A^@hs;>ueI,^#oF!Ro7U!`6:)]t'#M*YL96E0e<Gb(CE5&`ZZC/?/`j.LiM&EaZG-NC$V35376Eb)h
+)K@TnISXSl<Hl8]ZP)E#<SEtgnfF<L`G41UcWY_'m3)*BonYIdH*0no[>W=t(bm?i)'_kE1hluhA\'jn
+G887m)NdtTJ:FW!LXFY&S;Kcm(X0kY\T9H>2e"<g%HBJK-KaKHVNbK4P]rX0)>cMoni^UpA'.(ZEM^up
+6%?HXUVn%q.uP;:&M`emNtZ#ihh]&mO$G_<#JB=q-m$@9*IYHsp0ZgD$TF72C4Nk%%Am$p)mb^;cp?H#
+-@JdQ[.7c^cuC!qX72L9[B^J!`"/oL*@</uRi;-+dtWg](/1FRS5@XaoZAds<qX6liuui<Ruq$c*a(AD
+:isj^GkcuRn](HQKpL]*$=^"Zecao&47QDQM0MR$N4s[iA;i?Zd\In%fbC?jaNYH*@NJ)f`Tc*6gG-ls
+"5_3^"$>m-n2`=\1[-l6Rt?)u_P!lYG`aM(I'T7A@o)W-M"K&M,8X[%0#Ep%`%?[>:F\X-`'TEQ=:3B.
+2^#Kt@48h5QlmRu'"72ma0c;H,f]I!X*b5TA\>Hm1MN%rD&poj()TSlA\./8E3=_R[#2iQ%;XKdfP7uc
+*h&dS[#M+d\;BC5debei4KkV$k3>sNenuTnZjpfHX6:JO_,t[n/tN"B(,`gV4uY1@lNE#hQnd#@@H!*<
+jYS@E$#TV@aV\a?Ue*Ynnu3Y%7m>J69&qU/8s\J<nsaT.jW*XL>5Qk`pp8BP@sT`k3+R0iYVlIXI/.,X
+N$T:X\HSda$4q:n,%2u+B_sc_!6W%m@eAPMi'$g\K\$fG%djM(VTBb9.q6^[o,kk!(N^h4@PKU7!LC#<
+dJmdWC4gXIEMKCf37C-?BbjCI<Y78M?b*%t*[>i/1^j"2A'EK!B=P*qMoTg``4QtjiG<V<_:6nN9J*6a
+eDbgOI6fZ$ceF9SK><RM?a<go,,qeqM9t]'KL-j11i^VRC!reKqZ4%6<XV-sZ30fXHCS8]$T;U&LsM$f
+(sL7@Gch/-9_rJE_'.gZ;4@[d%bjCSR)ejtEW*Z(0$!X[R;t]ffs!1M7h+-27"3WfJg9Cbln(=5#Ht`Q
+7ipIfp\p`Q8)5AlJ%PR`l'V-'HZgp^:VIp]e]UO2eKL]0.C!ACl&l6[9VZRp2p6:U9.G8O\IN'rZ\Ppu
+n["[O;Pj&UR4="MjeR*jRZ"a;j<i;@)&4Za<kakZeUjOE3`+Gu.UN,AQO*1DbT_h1ZqS>4XPn<I38[Dp
+/"9+o-;E2)=@Uh%o!M#dpf^Y2"BQ>pJ1ZfQn?o56,E=m2*'@"P%qEUAoU5;)831A8DC*$X9JFKXs+<%4
+"$K0C*?rcK[MRjeFqKI7VdjuJq)CEN*X:mk0`9YjnFdkj+RTolkP+]\UUfP&gj8FQR!md[S:&^&<1Q\9
+_pnanWuf81nnRk&Z$oh&1PBjQVR'3[mrPTg'589FMqLPEp!&:IQ3uVE"m;GYd-@5`)bCt\V^b6\P\l)a
+Z5n3Hg2Y<lO5Z5!hnuBS,5T<B8_,Wt_&-136fkj6OtkC\8X&j2q`gr@N;mtQ6ccC>([%#6^tPlJn?2^h
+*4/`iOC!N8H4g!*,oF')_db-Ihs<VDCke99_/o?L5++3jqp&)U&buJ"=DV^nr0^e7JG<#JMd9tdNl6eZ
+@-oH%Xg`iJgORWfU.PP3St-Jp3.5R!"T3+,!5Eu0#Yf*C@Su0t-p,$Gq5:X<i*(kob%8N5AKj($a'$?l
+AR%0kVA0uO(4*[u#3(N&>g1;8cIf\Q9KD:`EUB9mYe-2FX+n%0CAb0o0sMK'f*op+=Ff.TrZJrMWY]0?
+DQ"bO/4?QG+VpiJ<8s&qd\KHup&k#<eZ?f@Y??WZ9CKgD"kVd/gWA)V.2.[0AX&:C@?ga4[ME>fmXUd/
+&MW@2Y&Rk!P_C:/2WLY9HE;eP;#l)8*kaH>,IVE5m+LlsZ=t8j/m0>\?@kNJ1GEe59R(Kd'B?,o@I0C6
+Lqit&.%bs?`.8"eL5//*O/iSL0?cGmnO-9Vp!Q&C_6*l(]`6U$Gl,1&f_je8BO136Y.`j=e6LW7>P1-M
+j8:[\A;4e;@AmI!hMJ3H9fT,Z*i>qQR(2QX=ZpJe-J2Rn2m>WY\["f:ajieLlGAdk[4mhhP29n??KG'i
+Em5qIGjml_gbU)<6,uqH*MX.&cn[=mb[6eqC!rdtBE+a<)uj6X&sjEZ7oS:+fOHN[Ib55kAAFC3MK,f.
+D^i`2/Ir)l%)eDt">ZMb10H>>ZJgn!F-oT30ifKg<fHO4!q\S@(s9/%Rn]?lQpm'IdJHOm;3gq2aVSIE
+]Xn`%q?<fZG5u'/e]Bf@7%'G2R&],>l8'K,k$rF@JJW?l*[0q/on;hZp4IVZZ/=QH)nV1rm7uZa17Ub6
+83?VJA5$>8@r4/"/8`2;(G:98[Me5m7PVC0:pD"kC17Qja"5dui#Lqj@T5G;\3:AJafK.fI;8RXSX=EB
+#$a=c)18s%(GRtb?t'OQAK76;L1EuD?'Zg3R^=0@'4#IBl>"-u"ZKh!c7J<@(LtDE5fdVlcVOnNTbq*b
+baOI-Fpgca>qohDL3QtCQ3Fam"Cm/fN;P435"dV^=_2'eQr/d4(hLUhOlsXsiogQ4U@7sS#laWQLj]1^
+P5U.a4M-Fd@:Dk2&K]CD\F>T+P1-eFnmG9S?W^[-KuZ@iM$Rf"@LVRmE"mbN#Qqsc]_CY&r8N]!3;&1%
+-p"7H5BGC#S_.AA^5CRK&set];%%niqO:cM0NDl5H"\DR\Yb:Vmt-+8P0(*i8\\A4mBCX!>#>A/Lda,F
+lGa4HhN%P)@gFLa7$E)Z?iWci1F#!)Ue-asm<^bAeP,B)'r]Hn(6<(R_u[]A/CGUep^R$;B?WeR*rcha
+'dKMYgn\M9LbC"HD"riAj7Kp6'8S+2@efQ;0hRBB1HXMdZXM3aLr25J*52=eoIjM\*:<ubqiQj46k41!
+#SUeZ_tCh)UfUYD`%\GCjfp\Y#WYKYn[QRUL/B-5'6@*^%0(nX3'Q.1_44^Oa0[k-E+8YA8EW%X`#/B1
+*]V4uc-erTKmn&j1FFtjL#@niE2X.6iXG,jAdm:0k4tLdJi[G/2kk=^$_DV2974'-8;ml&@0S#fUe-as
+m6@k-MT$tq^CRM/0#i7H1J)X%@*kE<HGrW_`dohSLR9l0jr,pY#;Za?2EUbV[/#rVfBbHW@,.!+6T,nW
+'8QKj;jlgqOPU:NGn\Q4(>/.7Z/m[e,g)BS-ora6V8($l_\Ac=4J3;<43O?:?WbA<QqWI1M\:LRIEWq8
+E:.[E>8N6ij0s(/)WU)R>sZ-sVd;@/^'iW%pY]\0pVU1bJ_V-D@4:</ju1k-]88<a0Y)GB9XA]@8&K3i
+VAPh?a@th8dWq_L7TbQ6i@%idKhGaf`lJ(;5a4*jkfk@7Om%sVA^[AGPP0EGQ/@:0AW-%jg\LW6oi0pD
+5'[VB/Qp"/)^=>aP?fkQKV)bgfIc;3`XHksZh,dO9fWL3o5MW[`I=j*DG(Jp=iD423u*miQN>FG!9N^!
+.,GPF6(E1_+N>i!;2k3(?[/r3[>L>t6FnJ;6A_a6&6)!gI$c#h;^O4gN5rk)LDooTW<q!.W[^!7^Ft2@
+?Ou,(,nJtiX*Tk1Z4&Wm/$`<QPS6EoIT[E;-f_`mD'BM+=Ja?i'](/R_p3<`H*(dR=gP&jjs[@L%C\K\
+L5oWW'.-V_`o<b[N0,G]R^=0D$VPBSm,E:MBKd/$bV^TjG_#G/@4UlcA4G'^KZ@aLc[snNKE9LM8$Xmi
+3%kg@`0e>3(.>8b8/@PdcXt!W;[*Gcfbc?AJql0Vo]bOhICg)JKo$TQ@`/R>#_GXnrWU0MA._HQZRgq^
+:r?.-Vp%q?KkFij7Eo>U*ghcDWrD!+nKj-=QsPo2C].t[bub$Smi9..#QKVXBoR(2EZNCOR*3*L,0q[t
+\c84pDp6/mQ`HU<;;QgsH4>r,)i65\#$OKA,<aV6XQhEKOf!+t1uks$3\frhD@H=c#cjJ^^ifTUD9%eo
+d\KHuG+?f1]FoE&>XA:d+g6FJS5"sa6*DjN!FeaTBS+jOo3iWWR6h>7Qn]K2n&Ri!PocE0L+h#5T[f&7
+Mj<.7`M)'B%%_f#@ZP@loWq=*oo12h,^AB:N9PCIEe:pCP$7UIU/Q\SFHXR718,hn.\[-D2I_ja$rTX>
+,iYh++,n=;_umm,6r;*cjN#-r+G.EP`]PFBm[YAcJ)AGJ5%c2.(!C!/C,Mm;8ii&:d7J0='R\k^B6\6I
+kP1OWG,D3jeq*J!#2s`7N3,u^YH;>)"00XKNh(s\)"^58%"C!<,faDj8WtLgHaY2L2X9mHO^<#OCap$<
+/-e_4*$iQ!bne__-MWBO5(eJI;i!`f.a48C()ut:C`#r(P8hV"i&9?J[Urrt8Mp^TSdYJh,K0Eh,=j*M
+;#p<0$r2fFlZJ*8ac+W,A%&C%Q?kPI-;Is+7MUn;aTUT8%l)'/9bE6Ia9[$IB3pYOcF.YHYkm=\3,?f#
+dNFH>Mfcl!m)IO!D-^j#0ud>7CR[0o;n2g01TX?"XM:bKl)"&D,I\7p/ArB(BcF>BIUkP/_V`'H`kd4f
+L6a)1A#)\[-LD')adgiM9[7@jQsrHWq$<Cj@XXSLCUP(4nJ\_F1t^_2*Q*@;=fpnsR5((-K]28AG^4\o
+A;;hUKX"2U7L\p\L%c_"klD.eU[TdB%.QFr<NCVA)U$/H^1`JQ43P-YbTr=7%*"D<-T$gX];!;:e&4*1
+P)O(%iLenL7ZT'V-mCrA7`L)5dhg!?A^=i>3Q)9-:KH<V6cCMl.TaJ`9mXgu29tJqYA&]mWf=@m\[,S#
+pR>(V!5okPPLhO!7PtdYQJo5qG@Tsj"/NE!N>"mt8<YApg@ssqm$$t?lkp'JMb(nL+\[h4[b,SU(c/%m
+NuTDS_i,Hh3TrKK8#FmK(Lr-RA']kTS:s5*<UaR]?6<qH5ihb(L`:g>(F-p22KZY=#r82_P#-6:<@)og
+%"ftI(`"h,!mLjXZohs'h3(=)'TSK8->J@9;(W</SnH(<!YGj(bZWfm1<uH>7Z8Lm;UtnJj_A6p[pVma
+WrX*'F`>in7WB#I8?;6kR:=tPXp`$*!R)Bm'!]PZfn-<*#/'`NG5UIN6\:kl1")jhPP2ofKtROpOq3rg
+0Q,0%b[dTC<qHu:#)jiF16s+naG4-l,nm'GPNu_=dUOMV>RZe8nQKspE"q8eUDS?`8qFa*$>%Nn"=Wtb
+rYS]a<b#T"]\]DP\jk239^'>?.PqDD@<*u<XD#_s#u&R,i>Bj]@3Ug>_Vm3I$m4(ePt3/3MoA3kWPX?a
+dP:F3DuPXV<PO9rC^Ee3Fg0E!Kt4W2R:<k8HK*.hdP*8WEh0OGdP%H0mP8LJg/_=R[>?n"`p-RBRuMC:
+X?o[!(V1Z4)peQH1JNL9i^th$-;BpcBn'bWmA8HL/&bpi!JUbf9Q6IQkdU&-Q"@n%$=Z[PI)M<oCHCu3
+$Z>gq6dBa+LCH@q-CaX'4q?[9Z+He9fXhehh]X]a'B-3CL$)L:_R4\E8[3/Q;G?<;q25h>h]KM6,gYLP
+3#=S(j@kMaGWaNc7WCO3O&(!uY;a@?0KIII3MY%"P+:tej:JMR*61,_n%t:'gkr2UA[%EN_,<W]VP["e
+QV!.X,fXfJ12B</m%muAQaI.>E'=96TrLbe'l']&#d]`HH#CULp/gb11[jRDb,?3p-"E`BP:#ZVla%<5
+heas\&^hnDP7\kB)1r\4%N?p<e52.'TnF8HK`Tq"U+X26UD1Pg@e__e0l"qP=CsJHkufuB4rq7IS-A\B
+TnGO;DInD]aeJ.?PZU7GYDeBE/=rmaebG:5Bc[X)8Qpja9_+]I<[qEhH-R(dAPsB.LKNt43SuAJ.5suO
+jA7rNk:?W"52sE9G)W2(=rlspb=Rbr,]7]H]t+B8ba>El`0<a-NZ@4s@SI++c1MScKkInVO\seaoSO*F
+>1AEYq=V8fY"-jDr\qk7_n"6Z1")jhPBNH*o@fEED,/<Z3?);2*TL`:7`^?ZUhreZn=&o=gLQ5tj>#(6
+DBo*Sgi49k6lqbO1laN4N]h#^JF-EC6h/_XelP_YR\`3fP"]giE[kEiLBbY(@Xpq!<iet,o1cTsRU]W7
+5;_5Z64WaH*JY`-1MW*)G4EK;O'lohL5OG`OB]C"->*jJ'r4PRg0o(]dGGBenbSY+II6.=G-PqQZ+O#J
+c;[N^WG3781E/rC91@+8DSb@HmXAHk(/U1j%Y(9#7Fn#:bFR\h6OI`f0!_pn6uO\A9ij[/`h!h&b4=*A
+?HCVI,COr3:Y&J)g@_%.g.UO]o:/h?DM#;3Mdb$Pd<[R&\=e_X4,RQ>pZ093ja4mjI7[;8FAe[Xe0(6P
+\cI6WNTVrD#nK06'Z[1aU.</sR7\B`mh+m:,jW6FUERp.lZ%6Y:qYM2P,SKo&Y>7<>S4a:PuL[lGtM=+
+FtNIXQn'F>j'n"Y<0Kb=j?LddB^$k#e7ku[^!X!CB_S=n>kG;B\:2K.RVFBr&/"ljoV'?^rgM?m:&UZ(
+<Sq+f^KdceGG0GO')[e$M!HfFHHq$**5dZric;'kEJf\I_g*1,dkT=,R56Un$2p7d?AghlqKQaSlOqcl
+:[])I'GK(UW`QkF(>"QqY(&2/8EGgXom7>cpPc9jhr1eg?G,a2fQU5hreTU3o2+IN^Nie4R/[_e'GG_=
+QG7oSo.[s]?.IfTqrH@E8ZCEZ'0JXCgU+To76aA8X;B:q/X[<nj!Poba/pQ(kGU7?[<n]ES0EA_H+l9*
+1THus?d#tY$'.B1F]&,:.6P(%Wne)tL8(eE#HB2pZ1$%ms6jN(,N_KV0kT3C%'MgP\E"cLA&I_m0>U^K
+h5l++K)-55&s`:L-^B2Sg%"7YO!oE?6?FVUB6GE4[M:,q(T)!pN27OKP?otF1l8Jc6Zj?rH!Y(tf>?V#
+&W=eW*Tdi/:X`93/1Mk['t<2fS"DrUkAS?&3:RO%QR#&Aa$cOAIp>"Y+eIci):[<U0Si-(nLB41[kfMJ
+AKG.Aq=SZI'WIb"d"^&;H7Y+QUf8b:5(Whp@W<I@dc6VfhWWkPU`RGg*[@Fs-[e%oP<*1fN=02p/UAs5
+$=0Ziaj`9g&$<hK'SZhVI=/-?;N;AUH7=@$_r<b];OgVg6_Qk*JM97T(G(DWqalMiU+PPkE0Z5=!r?S;
+=<$`C4H=//qI/F\5bRgtS/tJ.oqP2AbkOE>R%W<l/%3KG8I4lUP?KT8P*goP4\Tk(ID6io`Bg<X&_Hl5
+"8Z<rkc[_ZSoR7AgZ34.2@eV&!LgNsdhLj6NG<;=,rpN9g)*!@f@FJ1.@;L";*%0HC]f-\20!5iYAu/t
+1G'i,YBhan?2fMOSIU.,io5X.FBp-N;`V[]W.pIkrlK7XE1@FsU@hfJ(.:Kr3dgdLn\4sL1BL-b8=#=+
+COS[ZJ^ok!Ys16GT3Z601*a?['VkWRPuk?enifF`0m</(@rs$WC/CPt*Rj"I5g_3iWjNT;'/rDXkSNUd
+"^\p/0mWr,7"^2:MW.Q1YYYEiP`U&uR2JllX\F]E;Y3a9hnK;">;`54N.d5!-lj`1q.g3qfd1.\h54*@
+@Z4OYJh^NJ5Ig4G#^3E&j'?E\7C;9=CCC0cN:R<S2r2rmpqBP=BI-8Gj#WO-@!8]+WM2c0RGm[bK>(Z(
+Ao3UU/QPr11$&8EMc`s/.-Ak.8_[K-mkHZ+^G[g%oH,mgk-tSuW!TB0lfa]<MRG-3;GDQE[!3G7^Uk)(
+JGTYJC/W!,pou0Prk#0\T!4$i.XdKqo!nH4q7CS`&\:;e=6cU$G=$t!7[u-5Brm/-5!#oU4A+Mm(c?pZ
+qVD/J<giXfi0jp[,t0/?:,1SDl#G"A3+"6Z4g)8d<E0un;^1k:KZ6:6:/FOIW^op,O(iC_M:b3k0,J:;
+?'ormPM+$&mkLuI8fNddNk[eb`ZQ7t)!cAj*Z:f!3't[IUDOW:Irl`'?"5=rG&!DI'D%c:?,/tNjqBPk
+!_IjS:V3rQ@W7F!f3=6R-glI^Ho=rM<C1I7a,[.NA*j==I>lUbdE.1-$HA;:K^mXl>f/"ikW29IEENTE
+"S>Tm4V8BD+bdFh+NIns8)-aS!j>tC`qi1L`N0WA:P=!Z*tC`!$+;2Q0iXFlFKpKCidAn&k$^6\#O#QO
+-BVa5S&ga$BV,hWTB5ZE'O>cRR\-.>.&T`"Pcb[Y8SYXkPit)t6D"JM#kO>W6$jXoJtK4-(rn]6er5MK
+_nS]u,CJkn6rTX!r*]nWkr=J3@U,;G5=X7:p^j2!0hm#[,$:[2WtL8G^I*+GI]d%VpDYAG`8dU:meUW:
+_kZ5fEk<e4+%%;Ck8akl?M)Y>gd=RH6uZUq?UQY]11SNH@m%[H^G-\dTAP^ng.c\Hl._j.YJcfq@*FRt
+h'bF=q9]:c-0^\PG%+,QlrD<a)U5'`12D\#<Q?o8^idk+.g0?uQ0iN%T<=^Y.-fQ:o1reRWqm9e\?U,D
+0YZ:#N:$Ltnb'U[I(f7[G4-<c*qI#*]Cl_Ca8SAPF`7K<aLCU]h`F0n)9$gs8*IJqm+afNHr'2b%NHM*
+d@i:Rq)n/$3'-kha$hXH9TQdlD7sUp%'Q5;9n1Q>ja,LRQRG]!hFZHKs(Vf-CBV6Zn@jY@pAoZTq_5aX
+j4qBK-lkZ>FrV?lT:5425f_&CYPi&dq_33eNahaV1$h'g`mN0VL:pI#age@Qh4QJL//T%i?jo1ghdMcg
+q:o4>4QOJQ,GWn??kD5Dp"6O1c?\"qG1#jM2%nMTpE0sm^4qAj`1)E,YsdJ`>c`DkfB_2iUPrUk#04dC
+gUe8aSR3W8h%p@bq$M]/?c0MI4%+;\!o6sda"AW]m%EOU7.e)EOo/Z-ino0<.)"3PY:!EFC_uo7lCQg&
+%T4i!+4Kg4[Eb\;W:NNLU^sdM9E#rAPR5>T"Fq-EHH!:00JTH(WBNa!NX3VNE.gCcFF<A??R&>CNU6WS
+rnZ<@hR+@Yo&SY[8G;b6f-c_b5D5d*]nM:r.E71iNTd-10o#D&W&iO`7&$k.`RUYj`4u3h&mtSHb.%"a
+k>t4$ro1Qa,-h.j0LG+8L.![n%%8LS10cshZ[(^b#::9T>Z,uV`")3'Gl(O[^HE]Eg&3K8gZcBMp'(BS
+DRbO/*o`TKi]P!56e?")rXL=KS>9$9pQ9p'?djGumQ5Doik+FQ417HNHn-Cr%LPA9T,[3><l9$4UhsS8
+bsTXB\=2@CLd"!kE*%nmTH*5c@bWhtdC"u%q$t+ZT-NtKD=^uCc9&a+E9B1L+$##4:qr=j`%Dq&1T$NV
+;^<4?2J9jAa@0Q@/+Dc/FKM<INhhIK8UZ>iMP":YaG=N7E"<#jJlCiSUZ-*mM:j>t>YGm7@P(9#eI&+;
+2Bo99"mN1-dO\XA\V6XD&Y;kI7%@tE\[hfEeXad`?A6R@GR2JsIe?KF%(EeA+)k`Hr%5FMr9=G]ip'_i
+`7;>6_DQBV-%??Tc@#aqh=LuUR(jM?/p[_'hXru`]D4HlI`q>mlIHbjeUlu*T>B(LT>7kD5(VH)5E4dl
+^V]ifhSns@hhS>g8#X\.[JM><<f9d9/]_d$r`8WZ4<-6n7Hg?D`JR"b528j/QoG%*be<[Pbe)n<giV_c
+\9@ir\7Y_-[*MIRs%VKTYI\$295dsobN\P4mX0[/IuI_*3$%bR\8oD!\G<k*E(A`fYb^<'Gl3n8j7PVY
+_Jhbk0;d:P<hOTbn.A?Q_s*^r$,+OOO_<Q?;pR+2?^l&cD%G#S5E6]F5:qocg')T#DLDXH0A;BIm[*F[
+Wun(FDbTdh*[=9$2'_E/)NRJTq(&&=?f9#j7kf,P;L#?MLs[_k`5lM20f\bc">@J,\G15Tp8q.E=THc*
+o+8EZ0&lM.QsLH9l:-_>Glu'iRLA"1\%mLj]a-O',4V.(TRQYG"gEGj.LeZY'kBZUo#B]EOf'jYUF34*
+.`UjDF;Fg:Wi3TFea^O!<38)Ze`,40Bo0O8&R2m\i@FB5i%9.]E:+_`\El]W?SN(>=3X*Kj&8c]H:*0`
+@R>-ncODTYQAFaQO]mNU8p`hNa$ZOb`<Yr,-W$H8/OnpZ"8<7_ke-)rF6*I^?Z@ScY#ki$m47BX>DWgd
+Bg6$@$&(oeLU:RRp':?jkou`WE@CJd*[,[riSWS]=Grq5gkt'+n&+@3pVAr[::P5R$_oZ<L[Z[`,>O\d
+[05ZpC:qu96+$k$One%mLol(<TfM`'^%-?*?#qBJY??C<lY_FFN[9MZin'WJ@GN:$?^'L)6qW["pD'1]
+GGT_@l*q5j5kt0<i*"cirYt;khmIROFC!S5=5O/<V749*qbDfJ[ik8:DeVR)bp?kQNuJJG)U%/!LWB^>
+BBEY#NhmS"q#Ig2'#Jog@TCqq_u1UUUAb:S)5lq39XJ*&?eg4l1O*`N:"39'<A_Tsa_NLf+esDgZ)!X%
+dkefWMj+%f<rF%K3WrqF]AZ%bbU`]-`_]SB]1J'RFoH-GG/7A+\8VOFRC*s2bjN:rkADR&KN$4QN0EMr
+)7.ngCA(-,Aj:gGM]P..bfuM=lX<J^T=+<8mJ6'&rIX]%CX+9N]]ANY^ePl6g_eZ4:I#DJ*<rDNthr*E
+95MY+o(*aP9ie_Z;b9t<JH0eGZ7MU<hR([oSS9NA53+qB+3+M)<390#C_In\b>_>sfYJ\J(9J^:__9&%
+F'ja%E'l#@-NG8%?oNCME\IEZJ24ldJ"&?Vt6!Qh%]`.?^E9jeGn^)@Gil*kUMI+^Y@t(PVS^:lt6r>*
+r977pCK9ZuF(:PmOJf0oVUi#j6`^T34qTMYnMiMfRKs]0a<o_Cs3cNj5/U6?epTX,UW&FW:B`pnpq5]5
+3+8`<:MQOhUHhRX7hq&@qH.O2rD&,7_cGXtP)&RCcMI>O+8@gEAV!:&FC<f9JBkLo='RG5J)&Scj)MZ?
+=CJVe9[+!qtir]#$R0E&5=2;LW+l)hI&+;$p,P]=2O??4J_V6`p>S?iNUAge9[sEufH7hZb%-S#;n2EV
+_4#aS((`lH\P"++2]L?i5P1pPNS;lK+0>crFoAOh`6-"Ei*S]7dhmON=QM'ks0Bq5Q2TDEa/+I7?&S#2
+\9kPc9a80KB.F_fTK`@^'++O(sLhqGWIA^G0iDX>3:jX8]271,e$fJ1U%F9<@&RG&TipV:`g\$^.U!K\
+$D:ESNP+j#0`gF8$K/Tm((aZ<Y#r1TA7N=R$-B?B]"T:,iH`*BhOjbsQs4N_`o_sVB6N.;2M!iHrQ<PQ
+O/8;iN;nkZ+BamDZ(Vi-2,)i(50nsGh_;M\A0m)gun83DPdtr1\0dSq:^<G2p3>:#PQ!\p44]$HK+nY\
+2(r'uDL1\`Id?DnodHTh%prp'!Ep?dEY<<o$[,$jI2^.n34,CZK"app!_Bi]6`Ye9'1O3roZc(YDZ&F)
+&?FLLCmdC^.>%2UBU2`WOgug<kY:moe=8oTC'tqFlqB5RtR&VfU7fI,p@SJb5Es7L;>beBO37@l&Z\9H
+97sa8HQmt2]1$6esH@@a"\c/n@JJ_;r7o]e7Wd8X;op`4fq4GPArht=UCCiMFbMaj`'_Q;/<NU5i[(o_
+j6bWp$dabR'G/IY@M(-_.r2cE5=P8F&<sMFL.uAhJaK4Sj7L;4Yg]hgKEK]XgQ*hfsQru[jX?Cn4Y.j^
+Wr8iPp_&5tnKZ#g%a28Y>-c>m+guf<'S%_#B*Hn3F[Tu_?'%t3-Hhg:dauWr\Br0j+7s6II<mrY-Tp:)
+\C3s@HFfWV?\AfK^44\Mh6Mcc/N;h/Yj[^n>V"\uH>d4EddR?-D:-Gaa\.5-YEs2@F4B`e);X9[;SG^?
+7PfErn[f6t]DVdq=Xb4$=Y*ZI0=`fV5Y*I)(o?Agj!JbGFB$K.f<KFeF?+hJ/cX:LP-ouA"7%1nU0^-h
+[4S[Y!WQfcK_YL)SO^93^]'pTD0p6EAOP4#uJMb+j+2d5'm*!MjJ_V4b.`b&^h2YgJ"c"m.kVH?R-n'_
+g;2ioHHlOjTiLmFmLZdNIiOWU98&#`)@`80gk:eORO_ao'=oq&h$gsuk3B]kaXQKk.YR]sY0QGBHr9Rq
+O_+,(f3=k*K=ba3*!dN2b&3h<GTaWu23n>MiYPYK6'CZDS*qG3bkD<0#6+nm@P1YslB_`RGZ'nX8#3TX
+<6pj2!n.RIk^LAeggFCTh/uS#5LgW]7E*m3;Ho\+?Hei.!SpuGP1.I5m;X;]-AITq?0i_Fo=O5CT*oG&
+k..HJ6E8Rr,8$eaG?n=`"?+Y)D('^m0kfp5!kacq93#Bo%i,KN`7+O"g?#3@_0Cn%"Ltl9sYd"<p9.@9
+>b:o$LK0Jk_//Q=k>NoDkoG4SO+4ZfDW<#"BGE'Y63-to06,Ytc!2Bp>6iX,uifH<imVt,p)mXIZ,Tlt
+F3V;"/U2Sc=3'?eIW1WO5H>nu6:K4i79StR8`0aegM)?sX7%W(eVdG!603KFYB2"r,U86AEjRk"_s(]P
+eaY6sAH2h7\`Fmb!N*_D6$>)bk=:<S_;$Tb5Eb%nBfZA47?)rf:mDP;;dP@kWo4nfZ+kLbo:(-F6%U:g
+iEAVh&\]YX,3^:o7R.BQ+"2oe<-oN\$*Q<)CQ6E#L$,o_uhj%J$;X?4Ok;'*),-A9`;et]]A<muk`>2n
+X#MQ9`/`1.U:`A5!,B/R[*W\3j;/['_mR6.MQjem=_nnT:5kGl#\LNdrPbS([R<*E&&2J*^tnd+:n4;:
+/+oXU)ghBLN.0_%$"-LTFR)K&9<<tahhc'V*acqrO%e$O"go@tS]2"IWamO?*<1chLUidc1J7Mr2X?tr
+i2W6o+WDPq!V#C4ee`<B>PT]`#XYk*[&5U<?%L.nU#V!,>uM`Y7bXIC;^H!1U"F=\bJMojWUF*T,g>jL
+VqXqNZf0:MbTH6.>R3tI?cq1$onA60L\a/^r.mA&k+rn%f#Pp4MWhgk1d3tT]>73k#<K@sl/AJoL'Q@T
+(K%HEI2%+oUJB?S+'HO^P?ZZ4'KL!f6LMQI%!2q]q*ojt8T?8L:iSn<U./I)<6q87nD(aVo;\b:>;SpU
+mtZ^[bC?h@TW;e+12'U7-Xq/cc"39NarP8Oe^KG]>NNAq">X"Rq,mK.Y)Wo;,L&@J7BQ:Hak@DlTpO_c
+NPntojVPh?',-uj48(mduCPuNp$(1_\t$u0ZUl<5N.ItuMVI%9B>*LsA__HWTZ:"5.cNY8o-L%&;fi25
+fpB$81k\i*e<jA7S=n*aBhp&2?2Fn\f/p?6:).*(L$l=E9V=eC$D_(S$ha=Rd=e5;$sp3^k^_\No*,)`
+m6K#"#8-;F_5*e#:N&[cnZH;5QC(V+$1$p:a#_i*r744>O:bEJ,#[t3s9V?9>F3UXHn>We.O5QkE]Hfm
++H78'pZd)Nq"c6\<F>E(fW>Fn<W^'-n"0"Uc\@Qm>M@V!QEMZI<7L)^m`bKJl5C-q^?QOre8&<)92c_/
+iN-lI)b0f_:)nqf)4Ge8,7?97sE/H\de-7F2LW@AbVYKm*t-6F3K%cc=#0FCQZ:@79l81W:0;oO\u:9e
+LNE_l+S@p72uN3QBbU)6[bWBA0;$cQ%K76@Zem7F\W]Q%b:bWepK3Cnr$eXh6NfA$g*omJMp;-Ug3IS?
+Tq=W<`b(#1^nE%[oqI4s$G'5(q(CPXe2[>ck6D^HM_,MbdQ3H)aa-M2tnL:CC(25;T9PA]FY\SQS_PIP
+`3h9TTSF.].UfRJ;:2;blRJE"ZVI><Y6rGH0;)JsT@%$eb@HEV13/+&,ek%&Wl'184-@OYS]Y%(1b8^m
+LP5,D]l4]bED>EMC6aZAftQtnY?B>r)^*n[Bm6<`>Ra=+WP[)ai/X76@0h%>>gOBR_u51(OIk]sW2[D.
+ZY"_3?A[6/YiZkLc0,(5_R[@)E+=QB%j\PEcH5+H!hJ,^2C8g9qi(-pp2O(O=fi!gk'b3K=<FrN05MAS
+]th`LuNk@A%?<Z8BJXVf/+^1??a.!\&Ik,<pd[>o(5F,NTdPYqq4''fOX&nf3>/Jt*p7OThr;<#fuYn3
+[5AJghY3^VY<J1nVNo:*9D1GZM#Y=rDaW[0t&\9ee-nu&lV92T0C+Pb:+JKkt:Nq&VHGR\rf)f5jW/.?
+,hq`i,YK=PS&fpin#SVuPjIh:Z3S<9WRk"j\QoYik#H>O-Ha!H`WJ^$tQMfDX(/4,;@NYo*c(fNh]abQ
+KJ4&3&(1s:GVipB$HlgHW2@V"nD8A+L$`!?%`\W%\(qOX3r*mmm=h)lJ8*es-aO"l%*/a0P4p!(H0?/(
+as!3apJNti:;hEjn;EI?SEDhRfNH0@(SLbXZ,=GQm0G@2u>7#Z-$6hegFFg<c:)s1USQ8aY?_Ou.'$kY
+qO:ZTEO72#r[UJR\\Q,4SqRTI?bmnO9c,utVQ6DRHn@LW-A=rN.[)NULQ%H43D6.tc/I#5)K`0ZEChS#
+d+;+"sJCr<3^&EB'kr3GfsCb234+hH1`iJDYD*A[I2bC=),R3)/gq!9\@q!GQ/OX=O2"1<:+.5"J%^P:
+oS/qp"kIUpuPLc(UL-r(X03$pTLN*-;d[>>>FB$<#t.+Xh[RrNrLS(RZ"?Nj(ks1pq(8/Xq0mJBJqe.P
+][Q;TiJa%;Qh30Eil\U#8:o3+2@*bq0CS9NeIN1.`HpEQeni]P20Z`@$+m:i]^\YX]O*V;=2TWCS@1M)
+_e@gs^GpX"1'$<g8*gQ!07G2`1FhM8e"K3C'ng1=Ls/t*''rY0g'%l))?Fl(9,ihZ/,0Tp=Xc<)MtAfq
+lDVQHQX\=3-K6^i\@V?^%Wl=o-M`9]*c#jIppNPm0l6$0ei<kJK4b1[$Bbr+hN\ID([DF+O^.XsoL:78
+d5=5EjKI.>HYII9@&Rg5qt73<+kVXA?t"jX_g/MWOYAQ?(`:YZb!X!X](fAe.>=r=5E0_<:3YjV%r@W/
+GSC[7qqI$og$%V9+PmuNYeV#MV[6sfdK]X)NBeDWgT,R8pe%/A)8e.+AZ=B(;_m2:^bE\/K%hh]2s[if
+_EI/'kT%HFdua63\.&sI&bi,FgE.)D:U5cjL"1qsTW98^!HioFO*rSB@9Ho%s\^S)Uhd=$-#^'V0&\ZV
+qr_Si0;oQbI`TJf/;S]K'P:RZJAf_,n>9:)F*=p?pnrV_b(`(r36Q=`FMgA[jZ$i5fOMQ[_,Z^hq=F<:
+Q;]KdG,M]?4ms%ns>]Jbg+c>t\7;5'0f@+)u-IBYF?J]bMg%:.JDk;lRf5_^;99IjSje?KF?kWA(%P)]
+Ih)<dQ4-)0l+%QM$mchWT:i?QlI(F3kXO)*G*UEbSDne$K*h$dX;Bg397&T<4]o`R[\)W76VLVt:kf&i
+9t+hb%7rh\*,LF).Hg`+k_[r<M-#)ckUOQ'GkMM82@C!*DDLtk@V$&:p?^),M7\'433Ql-UbZGV1`#*P
+Gsa3^&KGg]4cEsZ]AoU<l'jaZDX3?\pHH)2@kq*s;;f+8hVJUfd4oU(Clk`33-9?)@O0dGg)N*0ob@_m
+=l?TJR%mi0*WI]q>+Sr11[q:>R<'r,Lcn^mfN!umj,&32P8.2K#s[:)`i@nafXA(ggb=1;)/DUTKP//Z
+8bc5'KBcBrpo(pdP\\[gldCjFti]rt-.LD[orRG[?M6s^>sNR^sS^P*NR9T5\?8MS[n\K6d2[A'Oed7H
+BS1ldE!CFlT_j(T3U@<P]WlrC^D-h3C1G\O2qRkRh*CIW@t2V4%6&pK4:O]1(ratl*Kgon0FP:uf%Hsl
+?fq+<cPag:@4oVLDeP]TU<&m-XK0U9\_C5?MupG/9+FDMZCM(e#6DIRb#=N`:sFsZOJO/nk4LH/X1Z%&
+0L]=GKbl/e_Kka2dK^IS2[=0EAjbTp5$f<iG@p0*u/q.'3pZX-%EJ3Po(JELb6N4HFb-!YQP#%Uc^I1^
+7+1Ll8c<NVWd\XIm\l'MZ[I,e^=s4GBEHZ36^M+uJ"8Bos_-D9Rf"Fa;hL?I+-LrHR1L@NH*752c9aOD
+d9/Xc*2N:]9<_E[uu7-7a.fSW_J<j%&&[1T\39aIoY$ub;I\6HR"G5L)4T6D5@kKLcPlSS6:$VC(,TJ)
+e)1sVbN[[BFmkD\(2?*FHg"$7rlH]QDlM5TLn-Ul8_D88GIN0kp7oAGhdr5[l35@VBW%:aV=9oPcjk9t
+k9ZrQ04'>bIH6^A]hk@9<W[3maL*d]UG3=kE67juB;;65gn/.9G8*-X,=T)s-lY13plhZDol4F^ZBSWa
+(aO$APAdn2Zn,.NX.8.*@5*%.l(rDR4%(P^DE0pl=%r_kI8pt9;QDZ)i(?PjGtDj8cDLThub4`Y'DO,b
+F`aX7@!G71Z+=6Mq'`Ul^t#mc\@nRWCHA)>VA6]=Sl@h`2K7^]g^4O;"F^]o$!/L!Yei?S)[V@4&H6;q
+\;cR_M(EO.WcW"KnV>$=&iKs%HuM815fZk&;lRh>LB4krt.i(l!lSFd?<knl8h97KumGZku>0>/"42VQ
+a6+!NmtM"Hd1jEh*q!ud!mKM0<umN_JQkC8:)1JHD@e3"2dk?WU<7C2O:MgrV4rpl?2>1D8-a0JJ>Kd6
+R2O??iWc%GKC`eBIP]=OPB*Oh`Sos&2]/$)GnAs7Bl&3nUd3cr@uLj>HU#,*.&H.Pqk'>Rf.MMIe[J`$
+Isa@'fg&l!jd?eH!2.43fK/T.LiO/^XS5H0f&6,=mY(-d=3f7S$=*&j387TS&[MT9k\XgemecMNamWh\
+aHaI?TaNFa^c2A&I'AR36H2/nX`aI5T"&p6@LEFN(?aD^#7Kt=EGnF3b+MRBR]8pk+)#G97#h8&C_h'e
+rfcDomoQIQ\qf?gp06X8hEApH>:c;e=\;mM`5QT/#.]`WsGbNW+E_ch.4X<i)+>.+\pk@-K<-$1+hT$n
+nG[IVsI)I6"2MqD.RI9g^2+It;G^CG0Y]>3`n*S1V$kaB]=<kaI7(-DXk9e5&G2WAA]<n!<$=dg08C*u
+``%(#+[KFO!VO+$oFZuPP&.fMoVGRWc`nU1#nNuUek7E._(j)=hrrAWSeZ(`/b0%BSMRkS`fM)CUSF6=
+-2HD(!#-EN14^2Y/6cEE$LUS@3')'8p7pAiN("7Mt2E?N"7"6oUu3Pg7X[J<204OKcc=>1bB>o+[\p#i
+]MZ"&u>@bUU+<5a!omn-h:D3!!lrRNV-'L;TCDN(]28,oZkctb.$+-.-sE_.WUCs=(37e,A3*:R-(kZk
+3bX6_fB:lE^I%7'qZC@h>A2<2fg>XKf$BeG<!l*J:JiY?n(#uR&9o@.gu-(Z0`Q\p5&2;J;POG/@MphA
+m`6#tmBAViOD!CJSn$^W!eZU*dcKt,-*g[U,(7G8YY,$0#B\G,N+n6Nd/_^;raV"k3dLCKZ$L/A>>X]-
+MDp3WN?7U5C4Ri&A2[I7oe:A=8:9c1Y>DUJ4)0l=^>-0C?=EV;Joi2Q%lOr>).fR!"VTVg(af^f:9jsq
+9.G;aaf'i:bA+e$D.\-ao`SF0%Z_`u+sE6ale)m9:7D$A^4?53CkKP#,'o%6qd-5eV5@iV4<fne0%(c,
+^$_)"+7@qEJmgpqeq2EgjTI?'[qlQQ';eDg#p'%h[VN4YB>Ms9C^#bAj246aZmD7l;"pt&I2j-l?Xg02
+[o:Q!b.D@lbA>d#]BIa>*sU\?=9348m3B,dFloa(QhM0i-]9Dh:9L3&!]hE-6=MT_m>H;(%-5F':4H$l
+B7"0l;elm84DTbs5*I4oJFrYc\Ur<6!1oF\OEpb<h=m]Ta'q)pR:qBIW-q+7*+e\fJ)3,U*,`:_YKX_?
+^ZOa)u0N8aR"C);;72_<[7V/7l#A!fh^Mi"]]AcJ,%ri9hh-jHVBQK9",W9?4rXgPF<JY-gXO[oG?6F*
+5R,]H7OLHPqh!J&9[<I"Fk\q[9tn]T2+@Dd^u`2f[!aeSq*OHAhQ3-!m(NhPcXYR$rk7`#,X=>!ffY1m
+j]6qhqXqUO+pl@6bEGhF&qJ2(?OFQ?U#sb8391kL6MX"g?+ba.`0sAWTs#=5Sd+DVTo)O8Kmmp5Y%$Wt
+TOu\5!s'9CNp^UfOV[a6=G4Eu9W*[GRbJ\j[GfSq_4ua(V'2S5$8G(j"M\"BKG/@^qKQb[E6`?-I;Jds
+gO*7sJ<@Sl6`,=LJ*Kp`=hdLG$1C6RC217[>3fOcNls[Ekg8gi'C7rnK:@h+!?[HM%1i9pTd:@X&MqP%
+%1^,&.2_74g1\'_3LJbr1O)]Fi'3k@)G<-L)9T=K&?=dasE"/>1ln0Pi1nQcCE9qgHsnL='3@+oK;[K\
+Sp=pF/ZmK'06)\4]q(6s_\4)":dSY$o7aU.<-J:PcOFIHC]lFf`U!>UK_H)[/$C?!TPIUcXT=.1VOHN&
+LHfd=0LbUZYs;TrW'$1,)H9`38:$l19:3W`Ik@U&CuYUI]k/"oL=7:=lNX6aWCMS"83"L-a+c+?maCn7
+U.XVe(NM1_#VJM8Wn'd3qIBXiJLgF:W4k(pRV0g5R>!4bi0L*lt=sBRL[5FO1Z"'3^;A*i&UUGR$Pg'0
+krs$V/BTEL7U-[ka]dl2>ng"W/s.UAt-A0K<toIA(gLm5on:m8N+U2aQif7Hg+.l*E4Hb.P$EHh>Vhhi
+f3^1&<]+nPo5XkffZQo<,SBb<$fso3Ql,`f,pIZ0a%PY.S`VXMsdn=i"rfMVf/=l`2`eX0rVn[D\97j^
+MKM0msKohBj(L-mqa*\OoWBG?um=_tdG<`2Qhq)T0U&LAr]]AiU>dXqtc-UMs)#H_[314`0_=9o=AX9l
+U_2[JiUReH'M$!Ie#XHr2!]oj&U$b!10>;nZOV?Gjt.!I;%j?4`4X'&kYr87Wro!dL)<a;oJ*!Z,TrO1
+T%U7gAC8Z%D$Mp[;.I?i<+D^)(j1)k::V;NQVJHkSm#eaZ[SmV(e&:1"<G!BnE1]!S483fSPO^dh\_Fe
+GHKGl)j`u#Q<YrNs;BSB$VUVra6#HG]ajih7*Wdc!2ReN7GIl(dlo]Z;K-@0b[3J0knThB8QN?f&=_XI
+"j;`*>3Kn6qtUq?6b3M\$#=F>X&1-A<o(Z2jCIqXb,sc[ftuc%@gp7rH$2VqnDUZGHlYDLfP]md0DA8A
+e+P?`ksiIIdDSl;N,Vj?[WT9="bi=9ZK-#d6k#,9ba3J<k>KK%K=lg,<e.Pd7#;Vm:$a*`jOM`XKR5Nn
+Gi#Q**Kok_l'#cd<mNA/XVYnEJibQYnRG&dh2J?(_cLUm;]h\-J&n=*QK#b]AiUhe]8H2N?V]I5M:qQ]
+Q5cm4TfT6'8(Csr<@#Kg[^2Xq:':8TJh0HqCGD:ZKXKWZ7pN$5";`g$/RoG!T'M;Uea=O^7u>&q<\as3
+0-`A]kDOG`HXsBdJM1q\s^:q?Gb@;FkC&'Kd59IUfSPCD]V]`@@'+rq^@I-N#"g[h4I4g6=8-.fN3>AP
+3tWS"7G2aFbWkDSj-Sg_,9.hD$\q$&7a9(i[/@W7lCk?Atgq+(W4o`Lq`[4qP&Y"ZQYGI`oAI>;Qn0`S
+-hb?[!jT](G<X^NHf6`-!l^o,ZY?,9!CBq)MXV6_2),c.Ak?&%L;5>D#4@,Y"ft(Full`%nB4gN91j`,
+cd$0,Ai3FUW6VjrHI.OrM4'<nBsfRXJK=j`QYiqS7gIqTOU&+CWRQ;PEFQ^7a`qJqY\fTd-/DH=m)JAG
+;]e?eD^=@*l+Pcr!qJ)O(u@!@fB<as(1Z4_lKfH[F%5-GG"c'itb1kH;!_?!*8G$kpgl4.Z+M[&jd4%#
+UK$h.bG<:U0.,t]BtKh(HN^fX^q+]hE/`E1Eh)<q7_4GgjPgX4M%0B:0:*MRe&K$)Xho@H,k^^L%oWFQ
+F03trR(YH2GA*uf^B6&rR-<F)?OZu/O)&5hs'FtCTkEu(fTmJ!Tb,77)i=T"t'.np>O2Z4G@,<A6=bXr
+V^;jpG\>AIp=XT1:f6Lbq#U@N%rF@rjnqJ2NEl-GD;8q2;-?3rR<NUD;=l@H=5g$?0NR(`OXlihiIP&B
+rgHtBo;4b+tf!DS86_tTAn>'NXj+C-0-)Bcaf,7+GUJ_%bn7'm2MF<gCBSYmXq[(D)$%?au(p^7peH@\
+6D,dVH+DZHdnRn>1*)%.O)U.f?;3XdD(1t(aPVU8=39_9f["#n]\EV(er$i;nQABWgT4+b3.dC?!lX@0
+:YWpCF"dVcj;B$kC_Ulr;E1YnF3#F@4PLa$g4lhQ$B-cp/F[EYHK;@0pX[4g5qc<)YZJi3BmDI;pIhZj
+CB8J7K93um5[kTI4J2&(*]l:n'aliLQutQX.ZM$m;23->)Xu8Ih:of<:VauJZ4_lT3F=Qim/t$NrN%uR
+DADI_*75jGdAn3ct&"5`Gq=VRi0KjDa8Qb"siOFaiebUEKKi__d:2Q_C+(+DYeQA^W*hUn%OGOd7;T,n
+K]*Lj!D^@,EuX\*7,7h0]Ic5K$a66OH"@\q3[rd=lR/V7,/##>p%[>E=F:FVM*>B's/O)r$K:A5(Lq;@
+b@ddn?<APl-ZW^i->&WoNaEgnMq'JSp;3%^2n6E.ilYcafeJ`DGb^4'%c#n`2=^+qmbUYA$VV8Jj0@;S
+pHRp7P`nd\Bi8pYR%pl!5>#9i,38H#r?Xu>fh]sdce1ikr<@uV+'$+f4ML&^mUdR?qLnQIj$GKE[=sdm
+LcQG_$.5W3\L@Z`6[dn`'=/$mMg%55OfO+@A]7Yh81r_Q(Em&)t/T;77-;2Q*UgUU/G+c9-Y&&ZZR5G^
+Z-A'dYL[2<]FqVKYc=Y0[i4QBYS;K&LZW%8'rLkFo;U'8$A\7dW@Guc@Au*C37cXbrB1+YN^^YKVsG9/
+q\NIoa(Nc,GKgCnmN7b)HCfaH@6FK2=Whmqt)8UW#29ES?^Q+afZkId2!CV+cOO3#[?C'N5&gbQEL5fm
+sKF$h@T#<rZ5S!)??piiL+6V)9**LrX6^KaVO^eXdXpCqp*M.gI2ieA<]_<!LLu"rq!T95Nso`T=Y-gA
+A>LjN$jT=Q7nT7).SW`:,-5ea2aLfch&^,kfT=t@s"QJ7,Q3Vp,/Uk!Vu,(d-V-q0/AJ@a]$6IW*i:P9
+I1)2I23J3e>kUr<f%d#Xr>muF2+Z5E+[GQO7E$)LJG^)+uq1Yaj7$B*Q$jK^VJ\"m=DZa*qWuu2+>_Tf
+#UN\A(b,(asH-CY<[8.$VIGQ<"2E!-sdXb@Z:-A`$!9(MdWJ[HWTIEp_]c`RPC8s$R?Nd8&q)lguE0tp
+6ARi`E[?JU3jfJ6mk1qmKE6srY'+eM[<l3'V1g&g=rW>BW?kY'$aV"d685`Uu\ok`dBP#0hUf%iu8?F4
+A-Nt)6&=C0nd5d[5NYQ1q6jg0/H>gE5hM)$"K42ZC'?a.\6#q"c!Bm9tC-g[>TSP?6VW63qs!p6>6eHf
+Z??BSo,g4\K4Vb(tM,dh)17$9Luu:HB&ka3YPro`hg0^OWV\g4g>BcKJ?!&8dT!D`+@0@=4(U+UXN`dN
+/9:/,ZTecIeA6@RX&#-Jb)$09?d(cC250jY/Xgt)Su)`KJE:U0tDrl*7*"ET?uTm=m$Al?3dRe!rk\fk
+d-h>URBmjC.!K.%A)@[86g6WP4&r0#S3$oSJ3*MA8$XC(%T^`%0!-Z3!Q4Of=1>XGa_^-dmu[:+U:<MJ
+O!rSr*qL$aI5mTO"c=FM_J`c,7EJX)+a[0#(#a,K7T#OLblRe0,)CJOW]:X^.6frqhQuh-GgT5gr(5g\
+h*\AS_f,UL:F$ebg>,P[0AH=Q'2QpKF)/dlS]o.q`Tb5VSc3^j@gq[0kV+Xb//-c+WRnLMP>:29,H_[n
+D!]rH%$Qi=.KeI7M16M)prFUi<3YLM(sa0;"8ciVp9s>mX-;VqG%eM`KM\B/,n5u'4[:+(qfrfg<4/9.
+GX!RF:k/%R=,CqMP^t-W.h(R%_66(@t)U"f_=Npn@4+gL!69VqO__fKKB,VWRb9#UVh+ClAJ#%KSk(l,
+2oG4`$a7Sr"GCQ4*oD3p@`-=j/e#u3PJe'K4?C1gr!"=5k_-Z(?5hT=Y]=uY@2f5<Ue<QV+t.W)/k)6C
+,>\)mDK7pET,FeEW)CJkk0\h)k(aYB-$rTW`OR_)"YY=5,<7;W+(TkN.u,.$OI>:=^-kF==)YFM?`&Jo
+ltN7(\mR5Ng$kFES?2DU9W$)$]ZV-P,Z4rYn)q&3f!(t,!'$NoOGF%Z:0(%ouu7UqFnFmOAjl3f"i]_q
+Hg#uR:BQYH<eB!lKGpJ.N1G2`')7E5Z>M"R4sE^_&(N@c+sL/5/[8)p5RE"p.EXMch@.A.t[N0*^F>f@
+]<3d/Sg2V':?eB-9bCa0h&LsdQQ"pdlE\p`.Lj5N;_WROa?:\6HLGCpFNS`\E.Eu\TstBKQ9gYa)r9=8
+hHT/Xe5Jl?qaJC2gY31O-sti6=bl3\cVEJ\L+A8HVU`X$#&'#F:O0k%M,u-a-,_H,BXV'5MLi!Z&_+>B
+]XR4N]dmnqCI:.g_X[Y-_7bE7P9!B8eCspF/^Zg"QG2#)e%tC%!(6abUln.Q@qU3Gp`;fqX:p-I?URkO
+.VD\ZCQ/+-G4Z1WTG`kk2$KlRao2$+2`NU?'9Epr^_gtMPD('g&F0Z1=&4Mp]uoZXQW]cD_HFSgdmr35
+F6+,r\0Dl(_u#,Q[$^c`WUB$&d.d(AtgNZ*1]*d;W$CUI`&jt"1E$V?:X^6fI,L*^/+_/Ioj[/m[`,8q
+qro39L;VH<4GX^N*uMeKPm9=BW=elAc'[hkgC<q8_;g-/AU3'#-"5MV]0RpJc4:ad<i\d*)33AjQk_B]
+[8&c:H)[3Sq4_ZZ#H:!"6!OtjS+kCLm#N:=hTZU&(&Djht4Z^jtSn!SE-^S1(3#LcCLD^7l)b_9AW\@R
+BIhS9tkI=*G3OLL)$1b^pi4qTsHPRNhN1[58KGFc-S:&?D@JC/$@A+$H<Lr(abKW[A&/J4Nk"*:Zarr@
+lsu@0'Tml^[B/"?U'(1DV9[NY$)3+eI',(`Ye-scjGhJ<k&QHO7&Y2R&.`.lBM'Ad0elE>@?U(Ad,TPm
+[hJH\Gks$#KZX2.-E6DgcmItPOfic]<Dp'0lm5]?qd>'N2aHi1g&03?hh:X,tj&dI>Q:bm8W8TEA!dYQ
+\2$kchXaES]]ApZ"?((G*uX279'r.7F%V^T*^H05ZmOcSKV-4VO^HY7PdQ=pMl=<_$H=(PEK\#<Q(Cs'
+):tW8LPG,\.p=39VBJVi<\Hk\pj(N'q_PnX=eD\r_tt(0=XIAeoZ!dLGjL.Q,_';P?&VacX6+`6.b;"F
+'Q"pZ8NlU;7V#OXj/JBZ_SHn/<EE2bBjps%_3j@t#\,dAq)!ngTIFbUquPNTIl55:[FW'YiL"U0JqPjU
+?(pnU34.qufAa@'AgH(:A%EA5M's[VU?`Xr0h*Ku0G!id&Uj6k"DXFa+TJt'Qjo[U3/!^h`Bo#oDDA^p
+cU%4#n!0:f_%@M/g6;V+$"%57!:pKAO+\7ml6Q0j4]b<Cc^EtFYm=]]A-6[0]&<?RfoGLui#619co\fW
+Uc[GKMb8CgDiK2Z!,9(DeO#\"OCF-i52Br.ggS-hF;(':NUN/Xm4A(?NrC;eQ5-Z%j'k@(Lg$mJipb`E
+(F;NQ%Vm)VoZiFuR%NP,4p2n0.bT*TFYb,t?"s82NptN8Mb`ql?07f,^;o9I:oAOt;*&A$o&73$^iP46
+%0Ok:T%G0>H+77J'[9JOH?<#5Pg[Gg+%ISQMp@G/u?@F%;Vpg!gAAY=@^J![R!CqGFS7c,]5Z9b=n%Xd
+6Y@!^8Vu"to@a+kYjWKM+BT3@s+htreHub#8*%Xh!8@6'.\W<t61%H^Aj.%PmG\#D:Gl@#9aZZjD[O80
+Kb!m]3**2+%I\Mu+R@Q<"(NH6W<D8hF__H:72@m`3oP"-`R%+EB3iL:6I=d/G?\UT$/f8Zu'DrDh+V)B
+_LuVtP='7.9R%^-.f'njSaGt&gpFddR>-nY$j]c0PfM;DI1p)6@0>DuNc7&!pWcb_kprQs7Vc(-#L\U`
+/?C6Tdd/2EEI34Dr788Gt.u>X\+GK^Xakt\_cL$#I)tNNGea84:Uo+L=Lm(a,!tQ9T07JbNFmFCqXI`)
+:]8/F;/Ol'XQN#1YM[7'',KsZPki^,cEd"e]4\$dEXj5d^/)'OKK4u`=/:BJ^_A3Sr;q'Xi.[LOP8hFB
+Qo=.61RBR5AG(5NR53X)ZbW.KbO`e(c\%dd3)P3b<^5F[d&T$K/bKS@5i[bk^)/E6Qe?3@a01#,r9C\(
+h%]UPq+Uff-nU.UG@*E\F0jEm%X>/=[0a3QT;:YR=0>s7:]"i`t@"A#E+E'BZ\g$uUA4aN0&FkgtRC=<
+Ik'eSf#GopmB`:d\T8f:SP/o?g_!*n;a>;/XHh3ftP`:=9P(UT0FO>9rctRKoF?E<'E&Ah(*Bd!ULDl^
+p^19dnNsTC5fC4SS0AQZ\+?Irocp]kL76\;85.A3dShEXI/%lS3fCgBYog^d(cF<e%ZKosN2s);Z=O<P
+*Kg%$5`6F'Uei\UECaJH=aum%]g1JH@MJ,>I2)%@@H"_Y(LbQi`U0ZWjT53mP<qs$>["q(LT7_]pF5YB
+EK$.>RI^7RRl'^b[c9h9?).:c=6h$Cg&UX3>1,CR%-Jp,F$u&B.S/TBqc'L0H#10X7CH!D_`uG5=?b,B
+(m?r6_qr_(L/!DsDr&VE'SN,3UN,L(<J_aQs^-j^F5;M.;7@_Dc5rOh4c:ZGjE[feQ/c^nO5f,Z,Hn"k
+eN!!S8aRpq#r-f-Q=_^=:gr!^G-!ldn*U.431$^%S:"d9mh+"^1<D/Ho7P1d5q$:lLlWLn"i=G_]k7_f
+roBqMaA1hRuB&Wu)#&o0,(=>bDbTtKm0LoO;O/[1gGh*it)^42M62D.<+u+2OJ\SmF!*^Op%p*"a5L-i
+nCOMPd<7E&G7'A5'N=BkEjt/q?AggHM//;ZP(J.re<4X!fr7/k<?\S&l>Hi2+=#eRm-VOoHT<OFR@6Sg
+@K_a6o.ZZ<hSj4UBJ!SQoE8J>uqF*o:c")=]9]s1fKjV+b>8Oq7MCOpVIYEk+9ai((<eiJeeIR(alf[V
+f\SRiWPN-I.FBp?6(K)d;O@$urgoA#o*>`%q=mTEr!o79BR'-4_LV$iFY?\P*]SFd&9,Nl4n]!%>YGu/
+e=UU?q7T`tO#LhiuNnMZ1A,W2&^q,<Y`juC^6c5?/0lP`d\9R.^N5'*R?->@pA^q?QdZh2gC862pTjp"
+oQJI8$-aqs9g0OLI5c<+e`Y'>E475c59<BY`R2BE\hfQVP<8J]KrOkMVS5#1<s-I.f;TZBQSp^p*WAhV
+X;[p2o&&"9Fd>g5U:&aq[l0p?C6MR>%&GbitKF[s>!%f;_L$4TT,PfTn#^u>"!cPc+JSeWL\8+"hQ"M7
+Rb!S#)"t/)K#MHfN>j!s2-?rU06+kB)gc!*t_R19gkq?%k+`e,D(fP0tV<n*6msoW]JUUOkeC1u\<q=e
+O2O+..r3P<"HT>PjImC[@LePJj]_FF1l;f'E/jOZG$2kXFq3F_HE";'DaTtVS*?f>S_?o[M^.2r;<),>
+.7QiB9.hh1ZH"%;9/a_a[&B<'WGg\-8S['jeSoZQ:pTdAHh(bCZIlVi'(aFhEg+mY!<C_Eh$h9Af&LAJ
+4ro/?ZI"M^F,Kbi0;oY37P/h$j+b)G]@1+9ck0T]%#sS^QCq4*.BWpX5=dRMnl"YHem6^j'2k[eB9R'K
+WiCb=XVTXOGI-a/)J\C1YFJi1`Zu\/-DnHCcc])<\/3IhrKUa#`O]:M3-.T^*DjcX]!uSq`b;KJYo&1o
+:mEfJ*@D\D/m#,9l])l1,92?cSF`b`'nl6JKX0NW)kH)\3h/D=l+8gpYH5Jg8+V0i<HB];Y8b%,kfo:$
+3T1eN0c_-?"F?sUq-8Z&[oDG-NIu!lV^HD2rDOLA]E]J>K>RP==/'MhA(g!*6E*lp?Mcr&_P/I2rN%%d
+]`_t)ca(qBlDFJI).\(SU)SGXtYAgd0PB7f>Petg4LbW]uIQGsd)fZ<Ck<5i28KF:lc_#P]aC_#M;Car
+BX_JUEloTgF^@PirhV&W,l-f-/3baWboQ`0lmO;C]m3^g7pCYCrKt25lBS!I,VP\Y[`m>e)V._$tR^sQ
+(Dr30'X?oK9f9K<m?21p"H<dZd*ck*g@uRS#8TJ"sl4p$`3N@<I7MX1ekll9@m,U%6kf.JLqX-j-@i!C
+Lfo38@>_SoYRZKD0(?o<F8R+to6%#\G$.;rMVNg7Me,<[GR<K#kT@ntm#@><a'7CL)M8[Mj,[A5(__u@
+Oo3T;$D6VP%#HD)ZH>[?34DQh;qu;?eP>HA["&JBLGqk?G9$o<[cH&:a<Yg_WgX&1X.X2^[5i@o/&UaU
+'"STTci+ML%o(i/Rr8TBVf+1(@'YN1Ei5@dbd<3PGkV;0A4PC.4Aqk(0@1:iEj5qOFmp(D,;_K<YE0&r
+NAANOlN;2HGan)`$k)Cgr8*(uemX)aP4W*7*:Lr)5(,NTmmRPBNZf3/;Sj*<K=#Ub@LSBFp_+3uZYS/0
+Q&H_u-4MkbXN$2Q!Y00aa/j`Q>,2h`/5L6=MJgO96f"_j:W*6Gt-$"Pb@8*V2oe=Cq$"H(Yc3KK&^@6.
+GVdE)-[gg&cf:a]P)\0=DKPQ@"^NG`)MptWmM*hGQHl>:p5FnX.0tjK@0gd/A$+3o_doJm)SjU5t)1A@
+jF;'H%(qJ7TN\SP4J[7#H5Z9ID'/#&%PBbXBku+_C9$`.ERKp#F+.^u'*6TBrNnO.4pDcUDCLbCE?A\]
+40l](r)BH*^a=O+dT)"`^=UmTEAZX4ocKoW">&YoIjW$WjJPkMJONP8qA-\(4X'qlj2msK%(Gt+!CXut
+6ju9R.Q(MFp7Rad33&HgXQ;mI?8^Uh).FN8M;f^9<I'b8XT8l=9/p6.DQZ0e%FXW``!nl+`ckP!XWe69
+g+^#&;q+KE3@9a\e(5[sKq%o7QO2>fL9HkEUfcW3'=A16S%MqpoL,E1"_@MDAMVbjB[1%r[;a/rc$tF`
+KfE4LW4QmYU.[DS'AEBqF0:IbfN$1AuTRBKU])bWA5/d/#5N&T7j4OB;!:T:C`FI5DJMdtQJLS(3a+`-
+H7-7T?b=,XV1YCEC?G.,RKh\:QAije'e8^I#^)ch"?bt<k^/X)L6TP1VLrme5qBJ.@UiYCI[E3Y89?;i
+$%U7T"e'\m6l78="%bXad$F[3V1Af<m6Mnq&=%F0if1%Zj3/@.@ej<To#h/Q,ai1J:B)^J!1&f=tBO(Q
+QSpTc>SFAr*Nl=Dm,91hM)KQ:D-Igc"q$g-[$GoSKL#P<6\Gh"4.j]ZG[,m;I66;oog\@Cj)8.hD'V4&
+DY/dq^^i)%Q3p&)OBM8[NEoG5+$\Q"Q_J^knaB"1CAeBXJV=<T.]umKCOR-#`Qm4=2f4Z`;.;"63D0/J
+&5/%a!"V"um?^G(nIj1b9@S38K[/M?$qR_Q(q]&Gp?F%lg?.Oo&,u_n*c64g'!P:oN4k)bl2?L5M&6sL
+qRQl^'rH*"O([g==i#I)-#)mik9]c+_'B+n0r:U2[?P*26?,VbN07gER>j3s]Sq3D2>DH0!,IoYJQnVr
+BO,>Zp1o8LM7FrNL3!J9OErl"Ip`A+>*o^0_[$NqA4P25$$lU]'Vc_k-*(Mpd.YJ=\/Y>8!KbHYh\h^*
+A9ppp[F_-C]Rh;0=%q2+K?"DhR%:!h6M[8pUInQR.cGIn=B4/MQJ<5NZE0Li\.C:a?RqTN)1.j9G`^R+
+=4;m?HJCrcdl,SW-A&!<GUc1fN?/mECS=F92Y=4WE5;?cKY)KcSC#Afq2Sg4H4ZeTW/+P?EVMmB_>;3W
+t'2huB\<?2ia]b'hf>']m,IaNN@kV/F=gcRajjs1r_)ED0in&)Ggu6&b:)Ar`GgY@96a+CgSfU,-HG/P
++*Pa>KqXO534a?S9'6s&lUR9s6$?!@h(Wn,4+M4M5GRN3SU3b4?0ioeB<dHV._\b2J<<QgA+,2N4GPIo
+nrL5)#@OPuEO]GN9;G=k$;=&](#95e`<h>0/&B4iP?/Rr-0uh*-a>VY,h<&u6`q#DUo5j>q5qn&$+&/$
+d0Y@#n1p;<Dcb+WF]3dOJm8&.ajdTSo]U#I8k+lQ:]4_L%PtMg>ZQbtgh$.ZV>,f-^npK\AD6SsH^3@R
+:XEp7ooCd_IF_.gdN![o'I]2!-Ru/pIhT(d+_&1aE2H=b#9oIYK")DrJ4Fp,mD]r@:TY2nNf*g;?b[2U
+&@U*E)_R0Vj9h%/K4oIS1QK=[N)WN2_7IughZ1$MdkRiiE!*=tE@NNJI5+14iN%p<F0f(a;H452iBOA9
+!.(+Rb'$i60rrHX+Y.b4UA/BU7rci5sn<k,':.$EuMdS%/NgHNu<!dJ8(At-L#\u!0-!9%gMn\>:^T?@
+O44SubqAV*d4J589?f$%[c^>&W6RsAL&FTqtb<.%7]t%@dR@m_R,8_(hMB#2Pf-7F'B#otQr&TMN?%<S
++*5a#UCXbrUZqm0N;!f`c+*pO2JPX?@SUbnq:.H*)cG,OP=ZK6QRF">#rIE!>F'g,m`V%qK`4l(MFSc_
+6POO'W0fo\ORbRiE`]+iGY*t7;r;#ERp!I)0L]/a3U8qri3m!uJ/QT]T@%%tIX>7</-Qr3+gB]eL97/^
+8\"=ka..JhMm_MF*n]dO7QouDE7^M/V3m#+@D\+4RnbjaCICaOuRTi)U.YmF"h9T%Fm'JGE"tSNICoNo
+.O#nG3(LDs>qem_WomR#KHP$Y]:?H=^?qg3b@#Vbl-cQQJ0B'@o<eP@:<`n*@?n9(R)/!H)k4qOuWfn;
+Ig7#,\;n<TkaX<QZ^)lMRS"\#2%o_EkA6*N"NI4suQ,or-7G0\\R!Ij>R'U<V<c33olQ>m=S$mg(NFX8
+7Dg_j`g7H*^o/:+<odqRUj$%!Tbb;dUNXYXW=oU4k&Lk7`OYOQjl/X(]?EaE>$>W/M_4$,U_DT;)c_^,
+taqc;dU"1o5eXnQCV<6V>4k]d,B<4Pf`])8l#FT?O3`'f4;/Ne*FQGQnaJfDC\IRr'K>"LSE."ehVJ=]
+C=6t'5=e4aaO/f5#BuEUBB>u^f<A-Z&pfa&+kJ0tLLNphPa;MI;pcpE#kMJ_o*o[jO)lqQ*^`(-[D8^)
+.`Y4-T'fP"BN*3*lZiSe6]+LYUk^as6,/>@0',/&`:HXH*48U9uAeGTPoW(T3Oo'!kQAad9XYM\sF'#6
+e2+Ytr+n(gr]p\<[(1`_K&Zl*Z4U\7]\#CZJie-__).&Wo-BqcfLA@sTi!JDNLB\#oU)<=5k?dLWQo4]
+i=BQ$pA%%Pmclb<cF+9.CBtEqDS<$MeKYRtFK4F$qkfPDC#LCE4,l;10P-$eT"8Z!hlO>g?55AWqR<gY
+@4m]c-kd9So/DH-DKL[$e,<BsnFI3IrRVkNsNUm`BYa8+8oA]!?YM+O%X"OLo^*1DXQ2!'aoPtYnb<;.
+Y[JiIt?_IUKl'a_erUaKGKCG[Pa=_)a5Xks<fW9&]$kn6sh52/[SpZ[>ns$:jhV:qdmX#(b`..XO^)+J
+L:I1m=LTVj(;;tV?cA@bP%PObJo_r]bhEWVK>_hP??-V1:`l&tRNQAC`oG[;bqQo/3>%P,ca2A$XVB`T
+q0t?d8E9J)@pUu6?$`E$8M(m[XSAC@`2V^nabW7Q5E7?h^^>gB)TG+a-Smq)mU7g]n]QV\O7Q7E&Dt[K
+#VYB=%h!ZTh(=M:M`l*!hpkeb<&\dmXXT[s-B'$jIb6:@t^HL;0K./i$/h"]$MQuBdRfN?(>C`XF!PeV
+!HfJ$#fA\$H4*B+L"=Ih=s*)`dT5n5*3FA*.8G?B8o4,)rR-dSSA6o6Lci,EW]`1$+\<he[>8=?7[0lb
+^ou%<jO^Gb]^@FD*7^?GqOB(+mF!khEjYOC+RQG_'k,dCKm]PBUp@b&En^iONq3DILDe^f&/m=/!l:"5
+s?O/1J%5[GqhcsO*4Cu(Q?u_6TC+74#l\B8p36+7RIo56:6i9ApbXUZ*[&h_Ia0Lp_7fJfKZ*=$aiX9+
+&O?PoQRDm*-UL`uU6.JIs-oKSRb%'YGqMBGj3aiH_IrPu+a3"hPX[lt#HK$2[`\q3]g#LH`mDu$RngYG
+#SN*+@\;p9Gp4@WjBOB1[(Q])=h4'\VM+605U_StScYJ\G=*eEk$HLb,k2"e=[c:p=kS]Vt(saX,`)Jo
+9=(3MJ"CXuJ0C<heb\#=i//<Re_-ki8juk)NdF7*cS!L?\qV@EgA,9Z;:KU@3W0K'6NAqC#I_mBUf94>
+D17hY"+u**@fOj37]`OO*[i)[,5)D/8XhOS((L?tH*cT@o4Mpr(EQKlc[I2#`>ORoM+3#03fA9)HZ/K&
+I0hT2J']/"[7/sYR&a-)lEXc'0j'**8FZOp2mrI9YdoM0_oP4#51IW\=RDrE[3Tq^f[nE>`.p(^b4lf!
+)&79Aq1>ujbBrf$7l+%Y@p9/En2oE=A#NEMrN+@-nE!@E[iEeR#BL7RSLrN(5JH;@0Eo[5i_EJ)T^&f@
+(3f`as)R@$tN>DIq3B0lBKuiTK&T77j[He-Qa0>OO:T,.5]c-UVmm39h+&9DMp_^?Uf_S<#pnhAY+OBF
+qpCOiZ`-+Z#;X/ad0sO5m+k!/oN'j4)3+*sm6MNh`j..q7I_qIK15`<2&(."u5gNdRi7JoKTn@gNA)Q.
+)!?Ri=A'.7OkM>;Q7,1B/EpUlHeLmm_Fs#<FKmec\>6Fo,44.U_*b/Z<abQAGT#<nsHECj@pZl\7XYOi
+X4\KCRH.$M"P25_Ee'Y;X^<9c'A/<NTX+@VJ')6CY&"u.u&H-`9P$XcT6h;7U8WLTRjI[:\]@B?BQ#=G
+S=*bJT[95KZmm]ES*fnmrMi^q+[\^!lD#?oI=kgrYN@-?Rc)i?U==8)EcHg1qacF\PL:"Uick=p*=-Ge
+IBgqa*<nPJ/>0&?S'J5'=Um?Df3jOm+a?O:-q'DbdW%2VIfY=DUB8:I*G84#3VkgQ2#j9IchP`.`_%G(
+XBcN.s0uboun@qm0Q:QG1oKK;SH,80n3:j.Mf^m8;puK$sF]LN_918IGj1k!-4_9RD#f^D>o!Pe&4`N+
+*^F/Bt&ADhXQQkfj_T80'A4'LLGmWHQ6KD+Q,Em)&pHhN_P0-rb20;"3brECU3Q;d'r8fhqa_S\jlrr,
+l7MMH)**5f]?FK)5]^t4c3.+$R)(/0$%u4,PT7k_MGfV63gs\XbZ:3c.WV!p[o-bL[]]AXq[4;XH/Soq
+S:@&)W$jS:R-$gA_WVu&hDMf:J9cS'2[ED?</bV_*)XMQBs`fr7Hq]T2_7lWm!XY$'&N2h.O4a/V%J,2
+fcq<aj/e")^@GHB];\m4p/T#ZfE[jbK9FA<ILP;qa?[]YR!9;/:+Y.]2(mTg?9?4Gjb5,&8,=_&`HIuZ
+hmoF/Yp-#dCdLYf-(d@$;]rmX:0`g"9:WIdo1N\IA71hH(8[gsAaAS,&/r]Z`:S7*--qO1Y/c*"pgM_E
+-@gMT@=j]@#Z^/=N^q*'LX%fFFOObl&!cNFgYHp>u`#2V/^_4]I*[059/)+rGs;,W!UQX543QerAeMMV
+'AS<CU6V5DW<r)7R;?UM>)7-Bd:OMB*4$9Bac%$mCemu3`emXt0+p0hj#ps1YVO^/5OXWmb_)XTP:Gn.
+]Y4use;Pc=-b`eYBr;UK%oBR^$<f?_>X4jTZoLOW9lb`a$fbf92$1N<9I.tC!?[6K%gb-<`$GEA=^J!e
+TOn2,C1*B7IO5"W98ALp(g?*A[`!JAB+ic,mJ%gF#KpHMJNJH#Qn(!chPLP-rq@7q*C>`4n[7X'_%&Y9
+/f<et(nc`Ys-M<@']6r+o#&2\hkh@UilmuQGRg?%4q??7/>qRk0Vf';CDRU,1@TKW/bnm1Qi-N?tBbkV
+geKC\iBQ.1qg:>^-\\tWO-1g(KSB1[*8K7Rl,\Y=SMoJeC#?E</=GpZ-Fi<f8Fo29nl=n>'83F;9Gb8Z
+]7bE_*).U20+>DE#)LN513FUc$ee<)U\IjT4XcJu-(Z*n<l0#$`Sgq7#RN]FbVqZ9[YcC4)+%X?$X_jW
+*nZY*)(1#Y@sj\RV9.hq=i_nC_$'=STX`g>t:S6f-TPY.Or\V2`7JM<r2VLhj9M]%R[#tpRl<8dnS<H6
+h3i="CYW>Sea)P:WYlu?+.__ncDiZB7ai5^H[oQp]0L&qWKGg:RO8_/BRJd*Z+Jj1-iYOpMpnSDs[5$A
+/^]>O/-eeI4L1ZBse5F,(=nrdc0_XuT,iNC1K\?"itgqE%lbZ_:gG:n+@j"FVhOpT'<$%oab@5MD+$HL
+<q+1.dB66(p/RsbYp*Ga*RD7K!,FVqL+iH6[D\C"DVH8+YgT>e1l[a7#dQMYR!BbR'f4])1,HqZkQ\H7
+,Ma5HUU0pksp_:1U+-(W$qFP&A-]Q,dEo+iM?dbbX^pO.]ZHkj@+hSd27mj%Vd7u2Ze.3e51JB6J`,P9
+24GZpQ_5CEn8MMie$DW`&tSOIi<m2:WAc7=VINqjN*>)OZ^44]aS8SrrTM:[VQ'BbV9#f$!U_O&P9B5n
+LnV<\]>'d-1pPt3XGGQ%a;hfg$6#7jB9-R/7B/p`jm](_@s4SC!Dn%AaK8s.Wg-F>ZjN@+MW)piLP_Vg
+(t&G_F5qq*Q"b:f;ZM1:O?d79cnW,\)9Zk"!o-15?BeO++[dNl==/lXYji^tsRqSh%l^\0S!?Njk-!F^
+ok"'Rj6bXNSq.E1h_1D*da!2>N=F,G*O8Tcq);E-G_X?l>Ni\;dk5&2591Wj.Xd5gKJ[q0;^\*5SSV"Z
+c[Lpia"[g_-;@cBFLR=@#k2(:\@KL6@>SRqescTlDO(&H3?&'b^[_fN1(dNBQ-c=LP`?NU7UHSJ;2A!l
+<N=UNO!IC[?[l/gW_3<?1%/qoS[K`,m"pW&NfI,]L8=]UH^1:!T2MdWJe#]1ITg_G_R$g>!5ZM3-Q_t3
+)+nU,RMHa-_EV7RA>q&;`bhH7KhoVqK<,@7)%MiRI3GfC-E-K\#80<83O`g`8)kOjVqb(b3s7q.G<B]q
+<h%<4%m02pY\.<k-s^!/2[Z]IS'+sJ!R&WN=!QQ[s<5DV&/*pQ*f-"HOEN%X%0+a_EOO#79aS5rXFdIc
+n71<,\N_&.SQg%h@CZH[7))40>9"UgDa(m@E//qn)C\?;uL-*1T\O>1W5cCMB]GLhr'9eM^SVf6`BiJT
+AM*M-oFo_$1gQq9&l"5SBY^U;MiR4@g-QO=:ENL5;Porsb5,E'iq`Z7k%nR'5Wm2oigNXsP2kdsr:s1;
+CAmQJFZXVc7"cc^-d]_n/FB#,<JcW#p7OrofD^)^7gGD'1cj6,FgF72SBB,#t.`CD:*,9o-^>G&a]gGV
+E'>"e&-83D/Th,Cmsk/ud[;N%G\bX6t:#EB8mItf\JM[1!9\>KqYA5luF9J-h@EcK0jMdQ%s#J9Y0KJm
+^5o#).)'Bef,&-gK7P@N*3IBI8i3Y4CJ"h`/DN8Ap\MA'JME'0=Ac1Q`E7YJ,g?aGl5Cdn*[1XYgGq/e
+_0MkMVu&lYW3"CkP@BFs.#T15L=;B3s+`fCuU7*33(PKh&`1BNn`/aaTHNuSb&Ic`>86j/O'(SPeM)+N
+sTJbZ^H@UPFP0eqZ/:9q]aAj-!4oXQ&n+[WBH#lh*c_Ai5!RY1/1'um=;M)!"D_3f,caY:^c=J.d<6S[
+a;*TVJDN.?1)!r<PH(bOEZ*UsLXEJ["%0<@HQhD0c9Db'03c[UR%h"N$1U]4\/$jU'*l>mN12dWhV0P2
+*39kO%P$K0"*PW58j8G=5s9DD9VJai':OYDMEV!:YK8o*?U[D7o:&o8H8.P!iU`lIbu7]X`akTX9ss81
+OfpmI]S+4jphQ+//i-WB^d`r'HE7<:R!DA2h(-FtSE)XPPT&e/!mM'FR)Oh"0]>*qt6^g+5Neq1<:egP
+O=s-JX`+\hP#%C3La`E]qT<mH\+Y#'UDWDDZ%]8S+r,A+5CRAE$tCC)i.Mog`d?IXMSMWSDj3SDZG"rP
+>mer3m0a'U%dCb+2PZd2j-WE7Bc%q"'Gd&5G7`Y5((PY@+aoL/Uf%.t,n)^05e^HL48S7J>cZ5BXQ-B9
+s%l7o/D*`@p<QI`-'>!X)s=]_?%HnNRBB>[WaF^*$C3jVk/c-jY8+l?UoYKU0)N1V(cZk+l`BALYa't@
+rJU\Nf(%m>rGbe/m'?*jfc1L)CqS1X/PME]AF*[bs%`FQH7LD&G]Gj\4E4lKeTbR?@/X\j+BFRB\,rXg
+6%'gRS_k/7+b-6Pqa`V?^@aah9ilNeHTT1D.4_.(fr1fnUilQ^jZZ3ojVg80j#bOJESi=T+,hYAapJ+J
+KM"-aM$YA=(uVVetKhK+tG;Obcm0bUDGq/L+K)j"7:NdR'p>]Sj_XPWptIQ9Tbedk0'([J^['.6;gs!H
+S_o(s\]'AnmUSJ^&C5b-eeQOoO-,<T,*E2D9-_ICIjX-Ipg"U!B4!<;?W8D"03Q;*3q`b"k0-Q+22Tds
+SlR5!+s&NkW/\C%Hli*Wo^B#\q^Mo8@"l?Vei)>pDo_65LZi/<p5rq-r?l\$o0`dle2&%<X*pC.7l/4R
+D%$l@T=O1l02KG4;5A91O"J;^p<Dal@>>7EQ(d3,C:&[sHghjR=>,1fR)aR&"bRNC9f2B9jni=#LqK=U
+5+;3Z^S(`U?VV=<>h#Q2n49D?Frmi>K`X/*3h-MK'c`e$NQd.OcI72Kro?F&;q9c>!4ZcoQA>rE_>\TJ
+a,[c(PHYTMhc)p&ha&X]sC7nrfB^C%3Z%:Q@d`?r0(^,%DD)XE24?AZtU$E7`!DBTF"%3@*0b[9Qp?@>
+2/ZRi7%5=:=BLh,>0rt2_Zh7juUHPR/o,4%rKS/F\a.?EsTc\QOD$G8L)CfCF1N5$9$-dG$;n1d>uIB^
+VGhKRgAkFuO,(7n=:=$h9^>O%jcof8c6hle\"m#5]lT.uBhN*a#h]nA7R=Mj@YB23)beMLt;:Q-12Qo)
+Zp%F8TCd@TJ5hH(</>_0o]l"&[SURnthq.d5,X2u.*.cf-/C)E`.9UKa;:1!1!Bn;!(B.I/?F8G`2234
+qMN0.p-qtpYYTbK+VAdssk:+>@OM+btR-d8UOGploj7Q.B]&XcWNR!SF//=s<S7h3&e)*Fm`(6AJ:@ha
+>Qd6.7-q3WiVoD=02YS8`7IR&(Ho,fI%U__cV*2Str>W^Wqe^.j1`d*oP^_N&6i69@d5kRR8;/g,/E>^
+'8_Ra):qb("nbjU^$QEh:RnM_2ii1/!"@G`"giMV<VLdkO:f1g$W_+?M5O:2>Tn2hrIc^L6#F<8"#i[\
+$9LW!=t:Oc&H1LUAq9Y7#B>'qF#n+d!VI,jC1<]N)(Oq;$KEW&Fa(3TtAR\%L*Rid0SBTWr!XB\9I7i9
+.4$=)W:`tEeW^A_\WhY99X^@7]CR"h9t67d#"),kF%<5FqW"_15Jm7+Zn:"=Pnlfe0]j3emT@Eh1.iE*
+l5R9V!U#0^S/U>meG+k.S!+an84H^(?,8lD("TPCX10<'D6;J$AnT7;tWjp$(@[Pj-C<f9[Q-fN8l@8(
+Y5L1-#Ib<2W2eEsg2I(4W`qt+Aq"_/7kq#H#M^5gS6`sGsBd:;7jOfXD)7s;3USl*]69&Y9c8VFg'O#V
+oa>iUWR4G\1)J-W@BSq6XmHdG-m6i%Zp4O58`rL,kD7MD-H3eR&E_F#PCR!%n43Nm:])D8LZr5[;L7)r
+C@+a_sV9,GhMQ2LE;XE8RIAg0(cMP.K["-]pBmtmTWcNe$QK1O]e7OLBQk(n&+nBRrjCM(dik(jK3Zng
+*UOSFe7neoA;l=<+JpHB4V)(SS8=FYEOr!b05e!7aX/Kg"oL7>]C.u!a#E?]VO3JcI=-i2.N+33r0E7e
+X9EO-O3ee-GqSKCjfaD5]B@Q,dVKEPeZM?X)kN'@[4Q3T-(HTiF&0oe(@nIlR^EsQ9]NUVoF"/gnKN4B
+;/f??\P_KACmFX-#e+C+ZVn`>3Z*dANno;9ElF-b%Lj5hP&B>7h>8*<]l'dB"D(&b:BiUIs6f?92!1b>
+=&_&/fEQggp@nk"dK*>tCS4dsbRDnOt,L)jE`UFCC*fu8<Zf:=QQ`*C"her!Je98h\U$5g[J@]aNJ@p=
+p?F"4rPk?$5rDN)NL=OTH`U"Cqi(&?\)jQD]^8j?sZBFp4O>C:b56CaW3+.;/T+m4gG-p"sDCGrndDnb
+F$3"T#9=KsB5&c.FnWL(-s1A`CA,ll%OeE>]oCWR3oP<>np:sLtb[5f$h9:3d]a(DWt=]O3Qhu#MnhZ#
+dn\*cc8g@m>6rY:Z)fSn97DBYT@S>Wr)oT0qd%@,,TrgJ\qE5-kLph!45^(!lQn<#aRh'WrAnp*m.Yn$
+aqP(1J$Rg4;qdebK(1"L:oW^CO[&t/EiiLEbFX6?2@MsnZGB>2Cb+5JCMi'"BpLY>$1kRd,VmRMceUL#
+M/n.$ua$g8WEc>u+UU7EuH'h/eejP3PN=N1c@LY78pDgrVKli./2),JNoY\uY-EA&r:\W(tB_Bm$cAlp
+Ns8[$?a_Ip##=bJ;;nuUqsETicWgge/^d:RSO+)6HuOHcE\P).#\^1]i1>iU2/)m.m-@5<l)ZSH(\q%q
+t]H9D>_Q/qsXPF]u5NVZtefA;oS,MKj<8JP`edXS/+,q$B9QeLW^;pQZ'q/5s>m5Y@jq$"eJ-0Wen+uq
+]RHoa<sJS-j&Ir$WiHh1tT?JhZ&a@+Q<-^PEh3oHuS6N?,G3+gb%\BT\e%,t5("_=P&dAtO2$"FI*>-l
+=g&uREf0US#X!KE\bc[^rO8'gF&Ll]\EHuokRA?5\*>XXB@G`:Ds7m(4EJah0DUP1REY$;-P+!Fr1;C?
+90l6nDWQtO2\@dlUn#Ms%Zkcs9lrceaQ4S7/krshf:#3#CN$C)sq,TNKS^`mH6:&a0;_#;FIkc-ZcK=R
+9:P<V-j@YT;i&U#*6/&)4In`+U7.h=jYbrB5fd%1h%(g0@ZloaS9]^_;n7nKPKMlRa?o"VEQ,>J"YE,=
+/6qlI>+pG]%sJqn^QdOj[h)U\.pImH$,=4]Hr&:F$P:7fTZKm4deo)Z]j1WS@/:h)!WfA$RC8etZRYIp
+0Kp^G)$BtlfF<Uf'T!8"-P^jGitqC=L#^1MUeke;QApAKh&6Ps<B4UM;&Ff2"T5kfm.XW?)]Tdamufq*
+Q4:+i3cHAed8`qG73gR"Ke`c)?F^E;a5jMeZBl15sf2n!N^s2)?XSEmW5//Opb6af(aF?.bTpP^uPX=i
+qi&<5nZ=qmU`Ll8IiMPg%gj.5q*UVE/gdZe!X36[gY4L6B9bdbMdi&e*e,5>Y1Af,$&Fr0oCPdEu@'_<
+ea-/!4r&1PiHb1i"\\HuJaI#41s4,j,FpY`a`STsCi,FGlL2o\Xh^SrC2?+E5_6#uFkQFRsfE]r)nF%I
+B\<'AO@\/?7RIiHF'":tk16pJFS2InG5oHcS%#YP$.K>_9,;?tIOa>u>I[\Q4]rOKq:CGU(/$OG)I^]R
+A\L(D%?W!n`IQgCK\ER<Q%`S^ERJ,8`Ja09[QX5nWO'eSWKk*_JsYA>L_QuA:pmS+p"jGt.7VbF_m5r?
+!a,5n0CFa!]\VS/@Ah#l`MXHD1H>Z8nnL7.4;QdKTFm4]>.`'hJ09b4t!_aarrq\'K2mK7HqJi1HgSPe
+'m\0q`h2ClHSo:05PE1To@;gE2"3)GnPHPJj1Kma4>NsQE<KJY]PBAcq+4liMfYJ(mZ[On4>0,VTV,Ol
+oIVrPpi0@='+W>,).%PZ=UHK`7l*/F4+kgC.n[[qm2*Wu5hX:%^HiN$79^ls+U$;*F^bjE@LiStG=0JN
+#DFIt8g8$"c2%9b`N>4T_uHjDqV(?.fl&p0q9@)/!3QQZUI)RK3r4iB,r\pQKd$KsOnl#/*!Be(Rt.7H
+d7":q&U1Y%:8?(9`mROa*]gcZ0mlR`71"/7B_>[Pn(=6f@e<\3b(P7#=VnJPh!-6q;Xf!WVNs2l2bhR>
+oHL[3uP6)@=^B"E86iVE1'$nSK6CVghUUiP:4L?S)M>A`TLa@:)S1%D=b*2D+H#r?qP<oRX:3&t$*<f2
+]j0s&")ra8E%N.NfVee03d)'Fn&-]I<>nD%`p(rERE1YFf&@5.N+c3pe*DoDp6^\@lX_*31:P\278T9h
+gm%ps8eOhH)Rh7T"lMJuh@)PZJja6_>rr36C-gbUXoAIX$*]gTKn&j75KAK3(-S-b7TrVdI?#\+.t]bV
+X"oVW:fk<*./MD8&OJ"B=42"?@$B$&53H-SJHQ"^jQ3Ala5b1UQ"?ju4i3?Q0/ZCuOt6Tp^9Q^Bsc-*k
+j$/UI,gZgUUP0@(QfPdN#fN5_mueUXa+92U,b;VX$G(Z,0=MJdcM3$-C#&tdL*:e:+\:1B1As!CbE^H[
+mB3JfJD.HK*Y'e=Zmq1jZF+B;&hMJ$o@5%Y@mH2=?^q!&*fPSeHO]UteCqfff1)t,#`HcB=%hKt>R(mA
+":]T)EGYXML'R!?GpR@.;Nf=YYihsoqIK5g\>Et0YtCuWM,2>5Lq*KsR8cTeP!m!*6Nn1(RAjOuc"gXE
+JM-,$0-SO`V?2Jh4@$/YVMdFO>^`dFMIm)sp(l>4GQi>D:&FTAi:0@@2`6eJW!0SX4hY*@s\Updp%ic.
+G6:K,YU>]oEl1pjumpr%b=E@bA'(R&`]!1>_1@4#e/;c#!W<GL0EgLq1C/mNoufA;S5%t9&(KJ?(2:Jg
+%o4?H9RR%XO3&^d62.0L"/7b,W06aJ-WA"qsqN8ucdM$hYf'#oU%hgfZ@'d=R%U"XV9^ZaW_rY[X>hR<
+)&`i(0u_j\\E2=daUUHsu\Ck1tCPg2;ELL50mkTG3o)kAMP9.(.IACk\^-,2T^b<>>Zpk[.8N,nGC?W&
+91q8_BfYNS<Ca=YH+F=l2+<.r`?+Sn;Z#lV@=cE%rVB3(dcQJ55*2NVa^5#\u9$#:]1NQ#F@95uBO%/c
+QB((QFCm']n=W%!:1$t7@.4ee@4#c21Mc?%"&h#ok43.*l[A2tmOoi[JE7WPI'b2?c*_RFp#JhcC2N(J
+e_HfVAtJ\\oZq$]!tpd5Xm5u>Eh`"i,0i-T&PgpEEndrXG'd39(O@56\nfo/\Cghu*l]u9I-[OgE_)._
+J28oA2C`^GYR8%HB/NKl5j&WH6M0M!&02sXciiuWYt2IT9CiDc]H.Ch3lBs6t,hYmM;rY'B!YOMOE)Cs
+tl)pYKQ^]+qgpYJ:Cm9^+g^5b%&e-1.8mjnW]&e>qko.Kf]4tL]*Lj\JU9);>Bq'X?W*+mQnQ^U*"pES
+-C\39FU1h=oT><#usj:rW`89V\<r9Hh>a#9K/cMs\PA`H>kA`5<joohm\o^hB_`*N@?]L4T2e&W:BX#I
+gjYn!c/XV,-cY%^>@)2h?U@57JhI1RKJh2T5nI3,,?^,+@i9-'Gq/7FC$/".e.M4G+=qYsqd8=4OdJ*i
+#fM"%d=B03RoJ"qS?hbq?1a%JiG=[P;A=3uKRc[V#%^LLW.0Hh$j)".-R*-gk7UF<]m&afI3BWIVr-(N
+LdnncBZW<Y@`eWI&M"NJ)$>VL.JmTK#f55hnp-O.G^8/e.:k%eV3@mJG;AA'`]CEo1T&oJBN<AdG:*c&
+i99f^g`Ru&)\O'R]=]=u7"qd$515OXn;ilUI1qfe\`LqDsHi2U#L8&eZjB0<AJmoc'Q7q8Z8(%*Lf;b.
+a(YSo<9Gmpfj?<;KJ=g9]?`@ZEkjlV=dK?_=O;m\r-*V?2QU7Gd:SBe*?MCCJIN:d_Ka%qJ]U3.99=j9
+(P4cYnE-%a&]=M%bYod"'+_N8@Nc[#u>T_<dZ'MZlHRB:HT7jn*0_@$WD],oqdC.*j[oT:6N8+oN##A;
+nJ`7f'!3!Roh>XE'#a?N"Kp^2d`795[jCf7.4+@<ehm+p95gd4-?<!p5d*tFKk5'*JR@'j;q4V*D&%>[
+4E'`9_U:5s>/rX%Qp4p-SK'YS%8:LkBjQVFn@L[?gefD'Cuh7=Jd7ik.\aeo]"F=6(/4:_+D45kME0ap
+290ETQ`J_8g,&UnI:_GAV6[0ONZX5L[#-Mhc+A8^!aVAV"U"TdUPre_$O9tq^r+28sM-Mn_k8U^V0f.6
+dodg.e66*Dk9C;)YL_jUhsl[(:WNWA8?,>.?rO7pUg%[8K@nCC-hp;;:[^.hhj4Qe3hb_7g!VMBQSIM8
+9-NdG+(i&;CfC!4Mh,suFo\C\,a>Cu@6$H=K>[@t_M[dRIZOq<TBDVBhrg%Q(BE*m92@1;\4dDWB2d!a
++dLO2lCi#Y-C.bQSg?ZALg4ila+8N?Lu#n8$FmR6g1ld1"Xjb.c0GuhLGMjBB=`!I+IaKfju\o4k;AgZ
+=dOai\%DWE%p6\D]D`0_^]1*\sJ"ut%VjjAO;-&e7JV--l`m8u%DA""*j+ac#*>B\.+1K#1F0W`b'gDM
+]XL@m1`Fj@c":\&MGO?M)m[DPtWO`5"TddiVBGi9MjETUiUE7*0II!*eiKAA_r!RYFE`L)J*G<K)i1_O
+;]s)f/Gce3Mo0m$./Xb8FrU,/Gq;)*fPA=/RBc`bGpJg[/i#+p=qXTWVW+\;fZoEXmY@5hpJ2S_@kY08
+TN<io?`.p'+#9Ou-EY$9B</k=0>[?u9r2SA\5YP@Cu!4k9YoXI8m42V>Y).NjR)if$PBtrD5<Z5HVk<;
+S@lT^=_b@%;e5j%if[.!bsHf+'X\!rEn7)(f;]RK,Oi8a8HR""ojS2Yj:@1:IfBM^EQ_(=>CXqObg``1
+RtF8fq0FSd\tYCB44M.VYe6LBZn1%gifLkDk(qq4U9\R$sZa0X5s:Or4S%di#h)g7lso7qpm>m!CF4TR
+NU%EMWM2k?j&M!i)%qE2pcVq"GDp!E.h>[]V*&XBU2nJNW;1D437cTeU@9MRI^\ifWMfr%ksp3kO)`iN
+[/),TqLENu!2lE6)K<2l+^!D>UD3:9/p]seT!jsbCUX3bQ06P&pbEG_k('Rf\2McfS$q(!$2[24:[9;^
+9"54]\%D;-d!V@`]J%c(8MgWY?-4;3b:'VX]QbE7$p0,!`dNl7h;"7NpYjLaltpYuMJI/bg(?bVBdfC&
+h!d*ME8"aiZ&_tObrnL2%4+1$&?NpA77K*^p^-:OsjIk7,Q9ge9*:LjrV+qjf*`pc[=hdO`Z<eGkPg!n
+[\]84MO>pB.g(rI4X_K]]AMTuLAJP.C)Nh@8)D>DU1]^dn=%O"eR^1rHB=7R3T,&E/5aRO&e\:X]ZjoT
+$_SiBB09QnVr;8AQ,bZ.R;3@$!+_7,5hI-Q'aB@GIV6d@";AB72RA;ZPce87mi.).2#VoI"q^%%L36kb
+n"o7,RD+TRZMiiWn+QSC>mD\3VKg62lg8KPnIBM(_%ZZG01+XiqM(B;Rn,Qh;`GW#.n7RVVPA$(G'>U.
+8:E*S/>7Q8'&mP""GaF&+dK3:6qq9GgdJ1X#&Y$"J^/AuM;;8AB2DDdRP`V9==_j"L1+_:[0C:&.CpkZ
+mc!/`PeoMs=/b:(&\F]E\8Jl]V&DIb#B1#3[N#QV$'ZlWepDo,8?nG,/`8eA2'7S3Ld`rG\t_f&C;hNm
+s>sKsn3'RY"$"l^&6F+aZ=h\b(LCXK\7BpZ'_@Neg_8,4%cUi#uG\.]05Kr?][Xo=3"hd?\e]C(&#qY/
+9FKbqad'B52&.CkeATA$bVk_70Xs4*NEVh"D"k]Or&GQbA4RT-'A$+HOi[NDcOqZ=uR=d:0tF7d6&o*`
+7?bU>*e[92eZJZR7nh.rO!naZ&V&U`1Do<S)*+j;YO:l:hds_SgR6GB"R"ZgNN*Dis[2lKB59$C=BoOR
+XJop]s#Aji!)@pfXs?b>u94a*)l+r/*\q$.^@-Tml*]QuUlu81RMKm$Phr&A6JV//)jM<H5du@Uu"ZJ;
+VNOiprSJ@f"p81&8#B0]i#Q\GE?5E:p;fBPketG<\R_EEmk2_moF67kjPCa"[*cqKg<p/8KYG>9A0HhO
+@5*Ed22sP)E7c0\IE%q](!IY(_f3?-`0celd"B^ia3+n6U;P&o0B*SL;M&q4uRo9YeLc4)WU`j89)T^2
+hP"N.*tC,I8eHFY.Q-\J9;I0n#o3FL!7.hM@OR<V3O#oEE%%I>ECB#sr&BI.71W0*M$?9AmPN-4FX7DB
+R9[1<HUF7k33Ob@VqP^IdRQ+fO+"Y,e9%cm;INk81Yb6.)rnLEj)aL)N)C$UW0'NNO]dE%%V$>o!N^#Q
+qqiej%?r&T&RU`/X9>#E#B.c^7BUEs6&9O788Z&QlI[p@L\>_`=Y[a^]pdB-P!]60r`YYgtJ<Ig(JbC4
+/))5,-)I7JN(UiMa9urFsJ5kaH1g""BZ-O3*!7Q:#SCSM6FD_;"4eHATuH(1UJ@.AU?3ZWY/%UaHT>`[
+uiuF4"RE`.3Oq``e2VW,26B*AEePUNRO2Z_57GjSm3L,[,[c),_)UrY:&96$WFhMhJ"/d$MW46g%q0_e
+7qrff%dGZ4JKI%utuQ+T0O>5[UG=7"g7s\RbYq0gi4O4K2KG]On@=F'R8JR5kGOEc3'^3M66>`T0rM=+
+&Mt'f$^YV.Ah?)9+@kdA]9oSF`'ers8QXM4p&mX_"V&[4da@)fob[j5MN^A(J:U=M=7npuU]^>f!5[5j
+(.jjN5SMR%tX%<pIc#C5c;P1FG\-UT,.e<9ee0)"XM1%-ujck9qYE;9ZV7N1#>R>['Ab,fVt:r+F[^m8
+<_t!;Sk\Z3(,q6d3XG^n/kKg\*,Fnn[J,S=A5+[_!QTo33MQVADC.ej623.',p^FY31)fAW7AgG&0o7k
+f/7$i'5O_r@H_%-U&aN%n%)Zb_'W6PuRM<jZ`QK\_S%g4CYN?F0lK:#(<+YN35K)fbQdCN8d-lNpoVTm
+T0GMU$$l5+h`]SfpgXBAdR%`H-'QK9R!E-#R4cCJLej-'S7^m>l^K^V+f@Ccl29ch\'C@F`Q2k4ZguA$
+kmbL2)_Pnf2=cQ?6[_q%^<US*Q2XhD1%\]Gfs>ZN4]6Bu=(PgMu'Y3iD3]E:2583-X'l9UN7'(JNM8$R
+Tf37?b1=U5<)niK]mOn%u!,Ep_b\2*3pZ0i=cZ:;n&^-BZ!f_bYI(PuWCOZtp^?V+X$tD[+n/X(NX0gk
+t1%h]UT<pT4BK@f=@+n*btfd3C/eM"^]^ZCbJ9QG3#=q<LhnH1gQDN4X].GVS`N!m*$=F@HCTWT_eB:J
+.en?@NcJDn\^u)PhHH^`.F53UKQMNgg:ZpLb>liAMUr*a@$U@RG+c,)"Qc,OXV;Xq=OnMm7^4/LT`)3/
+9i/2^-'qaKe<FMM;X3.=4)eIIA1uh09kKnn_k-amFb,6%_o(f/nr0,?D!;o#9c[lYZu<&h:m(+5R*L;u
+9.F+hrI3@fhjt<A6nLergZ<A=kHIN67@@2"#^NpNIg)kZ^$M\J^Fmo.d0u9:pVTNUVYg\X,%*cGsAS)/
+LYAh=kYV&:3qBl+\6q0q;T\L<=lhkuBFW3W!.TQnjINB#@2"';X[aa5l07V&Wc6RV@gLJd'#o&dn@Y_?
+G1LQl4KaZEG2HjC<kPm=7!f)GY>`>dRR-et=hQOSj<K-F1[dHdXe@54SuRT6uH.Ih-"kI_o)rrJ<8OEZ
+'d(>H(hB+^]d[TrnaK'hlZ6Z<PCNc@Ms6*`@#n`V-4%Yo<J]'f#mje1kR'MBb`qRUK<R^KLDD\@-[]^3
+Q[V9ZrllA[P(4-<iO6!EnN*ETSRl=L[BZI(6pYoT=O;"?c[ne>suBQfjH5S;\h#7i"lKq0fDMjr*<<jF
+;RYqepNS,s9e![FfBbr@jHf'tk;eoeNA8R;Di)(I#`Lh]5YM5a0XWX]RjHX.Ogmqq;WqZKAr!ci@:h-G
+k9j81eY5EGR`4pabm$]LLj&=Z*7VVV0%30$DsG2IS,=^[4%oq:8t/'DrG'g>`gj"p6G/CW)Je3WE'qPd
+J;=U:I?UU/ab]?a1Le<GQ"oUAIp6n]2H>M.pH`S(@d;DA1GKf##QH8(VFOYEk&'KO;ue9B!EoVJ<uuW^
+bW5k9Hbs?@;U'&&0)`1-C\P+9%WD9rhX?os8fd24o+)iNT2l;5p1g=GAQ3P>GGdoKX#6N8`LZW]K?ZlK
+S&an#<7\j#8EpL*[h?CQ`6P4L5Y28nVu^_Ccepd?JDg^mp*S9.i`NR(1Y9EG`%VeXi!n9(_q-#Y_o4cJ
+31!4#rIdN>%`5E91UT4F&\9IfU2Z?9nGU2h@$7]`WZW+l]-.LZiC>&g)B+na2BGYb;q_\'.=^KLtAcQD
+=2]D"J:I$tusYj.$5GPE/;SEEa<@QX)j%o+99t,POF>RfDe#E)^-p\n?H"/FigYn>$rK3@4hu7ctoikY
+m.-s,]3Z,cT#9k1Oi?>(]Yc$?:n"[]E];2*fs2k6/@4/A\N&>_KgjZh0@S34EAA-Hmu*Gh-.kZo"f`U$
+AHc`\829Cu5D'_^a'OEEKQg8(A")kTesC,C:A7\5^<3LiQD`\CqnFE)+\R_Fsl76rA.$D:o?L]ERLZNV
+M:B_G4C>kV9\JpmS`//0/&t9k#\;BuL@jnN,J^h_<&hD\C[M9:7u9AhYF>*]IM$^QGordqNA;7+`78R<
++eHYW&p%kD[JEJ`oWZK;$+A*iS6q0+RV!n]!YHS2D%4S8()DNqFeNFujV93mU0J>kHos-erJCQToa;q#
+1X^`\D''M)"989]@eFa86><g`)XX(?<YZfANY"n&/@q2PBWR-"NJ\_H]qkHA@qEeoX-!*])<dDcD'moH
+R[TSC*D]dH#Z`f9L@%TWN5m/st4EBt)oZ#C#UVe,-ks%mT`^cgFk<MTJBJ>*aikX"'\$MQ`IFqXN(0Z(
+sFuBda5X?`B11FhL!\l6a-c[EHaikFM9^bbBlfkcgm`./fG-,2t>(M8t!bm%fZ$e52@4)%WFq*l/ZMp#
+G&4etV<>Fugtj#Zj>[91Ki#Tm^@O0F_g6Ya-PM^<sVc+hYl\HQB9(o3&a"c2iU?Iq:]`[+d#mq)[(m@!
+lC2A)]iof(LaDN9=C6dT0LU7r5'oAr`W"Nmj`p=jkW`;t8jM2Pr7@^(TOO/X<@BX-Tcl2-WII85D?Yr+
+.IiGj7nCp-p>]_F7D^QlDWY$VOS#*S::52t>s/FBpIR6^m>Joi587fHcCF7d<\b(Fttcr\o>QZ]04tND
+XdSeaoQ4kP@*fMC+:e(:>9UE,s*DgG*@2ZQcHeF/\-a<9o54`%&cgZQ7m!,%8]T(sK17Sc&;Y)-Q11P3
+pfci%-I8F2EVjHis3E\'77sXZ*$D#$Ng#7fRV?_G7bZ1Z\gcY*o[["d<>tS:E4r.@dtsZ;!?R:$eSh2U
+YZ2%XPJPd51/:o\I1t$0NGj5-NI&7)/a?d8s\,-[-P8g0A`tP<[ARB!+QY(ZLOY!m1B_+aMunak\AQ&*
+aSRUlnp>1q$T'VqC]r;HK:IKH\CeHnIB:h2dScB>HlWI5$ZHY)(,;/V,Jip'WLh^sj6T8$kLSYgU/-H1
+k>A_&^,oA(o:Bc'R-qjtZg\V-_k3E<^g^QREjTm+D*m&t>+l&c+[/T_"-iKR7YAHh=WT&:S=H3cf)`QV
+fBANa5iJ*h$p;)7`h0Y1mE>P@!]j*qRBB*g;g4$`QXWX1\b^ZaS^$h`Z#eq\WhEOot3L>!uT*gHto3Os
+VJe.$]QZdE%,5ebQ[O2/aR<7Va=Q*[H42$&Q)bE*kdL4iU_H0kTDnXahQ*/mT7_9(L6-c:%-?Q_W`044
+,is*paDTOS(!@W7q6M3H,OBGF4?M0C\-I+!47FM3fU8`l)XsESa+S#qP/U>.GL4asEd;P#>9R#;J^DI\
+a..d,KF;lW(2B,3)A:\2K`YR8s2e>][qTb\c!dK,l]=fN#KC`(7;?U&N1OL79gqWBSkS`P1:!qsmMT5L
+)OnGc4QJ7#e;8=KH25=Xr0Z]<KVP.Xj>09=hj.cgAcN?QW;H9EepNc9RVAHp@FS7m#M9D:TrAGg](6MH
+P_LR5j"0BZPq+<OH3C@72$[Cb&egkQ)6TSX)cNn#Y'LrpFFhl9B_d0H(O^3C4RXc!:Tl@@b=XQ'l$u[>
+MNGDjd?79T*ZfN2jQd.qY;fQ<]r7p_)28lSp!+nM00<oG[I*o&!S">NrlPM=1$J`c1D1V)&GHmb._\R-
+V@ndO,rj3oLPW@S+c#E:p?FM>sZSpE@bVBC#S8mn17!Wfm9%0PA\$mT,X,Ca=S9)5;Z6C:D[X9KP:q3^
+')!Yn[j;!!>iF$*2^aBHq1LC>7Q$/g-%G.!C5$MZgq`J1M&KRXP#&mJD7fHg`mnFl2p>fK,peB:O.jX`
+H*$?]t0O>AjD>DH6XM&D8hlf.M1DgEfae,r$=P7fK"WB]6;[?8rU!83\urWA\XJ@/6Hn_GKBV@#Pu8'S
+SC3\GQ#f<V(s7Ao,#'c1+F]LA*+RGagDL??etI8,@'Z/i(H-jhlGa\'UD0O1+%F3&pUme<aI%ZQkm1E\
+u()I=-Tp\#H$"p_S9j"H(2*pB]O:&R&Do,:c#;FbiM=rIpE8cp!b3lDj[L5.O.m*6f2\8'r<"m=P#TD\
++G3)W:]cBIh:S?(!@ZcC0Zp_3n0P_eD:@gXdop#g;T;R>-q7WK*)i)0.Bmre]&633\s2,Oj+cFO"/_qR
+[Gj_E^>,oTRPW:&*=$FokhoIKrUrUi<1A)->gA)\=<Sl-/=XJ!",4(L]uB@8,UFT-Eo(Xi+WVfj%()h^
+EoBK=!8+.@41)<S]Xj(L`psN95s]7Ru\PdcX;=lNq2b\M&%7?$BV+eGXUrQbiHeQp:=FZcJ0dla$mJ'$
+i[u=QO@P"Cq"U+2L0L#`W*Jq%(t+O<d(iEZ<,C+j<Y+'"od5V>Fbm[S=&+gKT62It[:I$=#-l$E%p"j&
+6lT_D-_ejDTGkS$'G$l?Z29+,A=sgkbQ#mZjJ#`n`/g*_,n(&A`raZjsD+s#CA2RZGOi[:nubi97]oeo
+0qDbqJC%B>o02hmc5P4o1'k;ZGb-=pbelfYs92^=<%HWR"4e\-<UbrB9SKgkk.=+3/q.!k?l'KdRif]u
+f_\hp17Z73j999!uqIB'`1\6nlSX@9M?=+Qf*TH7kI@@nE85J,L:<k&TJ:71?qSJb3YbSsCqi6ss:O*7
+Ud.-`B0pk$WO]ErumnD,rcToO=;%N:;k.`I/@X8g[8[E[lgocg4*bFUM$]2Eq##fCE$s.jlsgJFS\.!+
+FT3CZ]*A\17?f(*u1IK%hXP$<q^4dRoBAAAiGmW>!/s0Xl,7k42BcR;D+4ZVYBu3=d[AC`["W/bo]`8'
+j9%-BN.&NdKY7,i=HM(D$(4<8PE<%)%\]3OQA+A<l5=j[i5>,8g=(C[g@US+5Y/-Cen3aaTe\[HSgg4%
+Qs15kW"'ESGuG,s:=Yr[3eS4^m2l\sBD[,/<bI'U4ak93@<04c:AV\Z\9W7.-hV8Fe1=?Z^0'pE!LiI'
+QcC3=[m[MQUkM@HW$k43XUHl1U`6LW\=P<K3fmA0V`I=2jf,L?$O'I4N0YODcj_!nsqQcr*gO%q1EF`K
+`tKfDE?MZjn"*Q@U8hI<-gR=[d!Q)28FMak#@s]"'"$_1?mq/gs',d%P,%/0J:H:I\ma&6`;kda'K6K-
+.tCD`Xu>6a/Z,a<,Dtk-:K>jBMV!6uKXN#2.3,Y0G)MRf*:Unk'Jld;=\ZSPGoIHi]<!`HXVji-T5H<r
+k8+F?#>EConQ5%qcYu5-BrRp^$>4WOR'0d!ipB]ENfTp$cUT7;rh4>q\S^klOZ;#f=`bcueUk]$Hq&SM
+6n#?MI4GDF@t('55]l^4sR9Ejuo[Z/ePGWu#_77f'7[0K/uQ".J!]8+g5qh"3[7[@HF>ptHC0C^'b2:8
+M_H7`QZ7aW5r@+aI`C6MFC_q):;I@/bG,>4Y&s6o\bs<Qn%^Q-m0$i*Z.&!p.nPDoj3I*.k=[qKp)I?q
+qb*bi)]19,$6tKVi,co8ZHB1?4R09>@umdO5aQNEPnn,WfDHne-oP8q]]A_Q]=!7D;<#]S*UZkc+/QV3
+&hj(q5aetA%1;I6Y"?:(_b!:U?>)5+=e7b3=B5t=\#ZkK6D_O],P7)mZeHQ]6l\X^1Rmm\oT1;rR36\r
+GX&Phm<I&Xs\R9,53;?H:,Q41,X`3lnA(MfL@4d<lT8,KJ2unYT&m:`-7MWbkE1!2*ZO&'7R5*[nhDe5
+F]%a[4;b$`jMJ]iujS..I4O:U4>e/(M>^_`\r0hGc`X7(u*;XEIT>50ija\.d[K6%qCbZQfI7t#\3!Am
+qT^i1$iBuHX(P`0,?X>nW`_*bAT;u^sNqJ=,#4_R:;*]6$5UQ,e')MPrEM?L7@XZ$<M_,)2@%a\]jY9h
+_T33A$YheODA>tY7;OR/\D'.^],^"^[G6KGNWDVm0jkPS8.=U$.lM(Y>E5[fdhD;i=#5^E;j6JXc1(tf
+>ndq=I)D=))/4ZN]g`/iNad];A_bb#M6p'S]KRs25KuIkSZ"LB=J$'DdJE-->u/gP25p&KGRo+eQ9X6N
+%mj^RSH8BhqUY)n8CPgST*Pm&!Ht[?O3:X^bWos-'Fme:OWq;4S#BW`\/!Cl9SnqP!;FMcIbR=0oI:m`
+B>V/(F4>ikM+=Z3R*c_;ZZ]QGMMd@.d(XoS]gn%.Bs%/`>DefO2MuA&GYK8FH*pKmFe;uL)(*8QidQ@:
+`.Y=?oU3M/:mWA6G]&_i<j'mJ'SsqK>>8BkptQ2I2Ei3M?oQ+$P=g*L#A?!cuJ)jKI9KG]jq;:ZeVl5+
+Ei1_8tmj(8'f&miP54:87W0"Hk>NsdZ\#2A+JhGs*co$1TLg03bZZ"W<0B9G:TSt3ND(E@>lX^89)WdN
+mZ3T5@7pM(*3LuI6)Wn7bo]l7be+gl-'/!HY%28a9%3,oF)ask$9(%qoCME0gk263e[$Yf+<FBV=`UYN
+6*E*aW68AI%&r05=;MeU"C#U>!kD>P;+bVatNqOY)C8ChbHW!7(e>jn.L=Q[=l_@O-/4[KJ*MG3tf]YQ
+i?IQ]P@g`hTlab3HX)SXnkDCID@si7KS,g=!BVH)T#S(IH1;1j9PPGrqVt+3Hkluear%1qe9AkWfsepE
+\Xk().N_#^;Mg7H$@,de;eCM=$2>XNOL&ljsIJ*ZQCq:h>+UW1P[)80H8U$&u:n%oTjulTeRmb=&pli8
++2^=G_&=,`qak[TB\";G3se1c-43@$q7H#m:08i@QeIlDS]UWIYT$$YmR8@r@!Da/XsrVF#4)bNo_1,c
+:+#sJ)658>=iU[\\sYddI3*i^U`C]kAakjMcfnq4*^:T6eG`>.JsM7V!k,ds#LEu8fp(FM%LCB7KMc?6
+)0eLAhLA9cGAFSkE'Sa+e?-%o\MnKQ<)t@[uOkRnIF7,;u:p@9/nt4cZ#Q+A"qpq(eYq-L3kH%@e_ekU
+1im5jGd>:pMh6_(?nfd]?)dqP3!PXm8^Z/niCUEGtRenq'g>HAn3@b)1.a"^\4s'(?8NM4Mdj6H>]5XS
+O5G%B?WJajpNm>\qTqDUh;E!c?a='j(U?AoSBVaAN"Fh&g-060n!;g(APbCS+0iaT#Iq=eM=<P\d%;Cb
+:B^Zf,T)*hf;L"5#uZ+N?%hu8\`84o/F`NUT$*;]U@^_&H9#SH%b).J6()oShW1N=r8L]7m3[6g.79Lo
+7fm;.d!5pAIV!7ksF7!pG(hJF3!GYbFTL$H%`[SHr-F($@>:%LM,r_#gK>;CtTK;NpXX$$d.Vj+qj&0@
+Vt7C!ugLQ2<,jM\`u9GI#I`-$>EddbWAUBH/"4Sd'S3SS7"\V00q89G/c#S`0\uB[4GS:#hVcD?(n_bj
+[85+>L>It]6"PF"XljhO<J;`cR.J<K@iO!Oo3H3AC/g'aJ\/bMncn.iMC>:8p\6n0\N=)%O+"e7a(;KL
+u!)1P-Yu!cT^*t'Ad`dK<KM$q*q3VRmtl?*JN]AP`UAp7fMBVM!oSXk1iSD9K%Kj<%K'X%1"skp^Jn#P
+u#9,IjU?9.%tDpJbJ)cj:dNMq3L%<Y^]'e]Z96mOl9pFP>U]2VdV_f7JCF7RL?=9ksB\<#3OD1EY-PL7
+$R+lpWe8NTeRm"K39J;Ro:SJ7kgg'0P8l#^VC[E))seqM^Qm@E>.UUc=6+3O5\(0p>NQ)+(4?upT`eGn
+"K$/m?k<>>tfV?/PN-m*L!N_@7nckPh3R.))Z?k_8YjS2Z3qT<c5t+Vr#<5?J1*nD\BMF3e;oR0Ar&#m
+BhNTd7C:#qs-P4c+Eli42%So?B5uSYG&UD$XNKrgco^?-J,t*hnP$d%r\58D8seT2IOj^ZhUoLUUUNpo
+KJh_(rt_Jk5;\b,_`,h,e!,#KlsR>5g<fBj2"0RE8Sl6\?#N<\97Ak\G<jOBfqHKc[5u(k&&!lce%-N'
+@#Ss,UC+WjU^=$l<!3))c8fn[EBUiCL4oC>5l[jOTmttkmtOhg%..4dIODA[V?affN=3dhepB[PO3&Jn
+dAMBpTkY'A!_h=legB%A6lrYo0KI(mX8'Y+eP[t'hmY/4hOXOIa#(0cen?!.]PDLZ%';r44_.:Tq%>B!
+-f"<W^+PJbl+NSL`WROkF(3O7(P6:FUk,\1D-dW%U[1S7&Es,=[!L=dU1E!+$fSmg$i%d7X3W<KIS$.B
+_kC*/#L_gjbQ[(L3R8UP#^%graH`h:TQtNm<;,lmXf`H'J,lVitS7_H5MbS%sarmV#U7uBROh@6MJeqj
+Shc)B(-ci&2'T4^mjf0hfr&oKr*`%F"i@I%7b_Y3Z3l2gqc*[g]pQVhN$'@+C+dH_Qt:LCg%RuIho]G/
+*Lb/_K66l[Hit-^-cq,PB>"cSLh54&>F)Z6XVCgCJ$VCO*ffW?B4FYB#%OJ1fEXGm9dTO`ucPsMku*G2
+$cs,&H3Q41lk6GpX"14cUJ_q066\-fh=Sd.63(+.2PJl41TetPTp/&:KrtXmI+IYU?>K>"2Pj3VH1PuA
+N&6mjrs6b-E0L6bnD^:X?F1XH>>=ReP"hi<J,JgRI7R(`_ZR9$2PRTB*tB6+.&ZU`f9f#XX<aFU#bY=#
+*^663<tDe?qd$89C4>$>H7D(/\qHfdDe%]@<+Q#4&S%\+bGF^?)U!C9NZB;HOjIKrK6\2FSlQmZui&n(
+e;NOV*<7;%$Q0$a4OoE3l>8B91LeQ#%A\jMkIf`*;1Ija.\P\q!^fZlKB::d*RHZNU>ef`,MrS#Q+8)T
+W?7o:ak72\1Kn=-#k942de-S6"raL>n#(MkBip_d1jA<G;\=__WI-LhSkA[g[P!LpT_-/'>"ctj4!T#G
+QU-sQ5@b[&iHD^CM]\)[%Y4-j0H`)O4nR26n:G`I$'FTch#Ke1`U;Kl19?bO!13-[Dcgk3t8il*DeKD<
+8,9fCF&f)E7E_Nf/+NIU^OdEZs_M%(@5jN`pSnVZ0-?flKMXJB:f%1*uo-`A+;;LfSptsio@@./q:)OF
+0OKSW-#(Wfm2uY,(/`6Mut0<Wc(;*nK?%CqdJ"CJ[K\TY_VQ/pVGOh&)dTq&>NYRUu+2:T>j&?p?b0*5
+TQ"0m76Hc0qdhp]tQZ%(df1E8^RRkC=R;$0L_TPoT!ufZ+gMud^=W:pEA)&kANbYk.n58@t-Z.o?BOU:
+F2d6n@9BG]D@j'I*T-/4WIKO\^KMhHRm$F<E[0Jm2S:r*'=8g57IEs,Ktm0E9R4uX-^B8S"!t(nfAEFH
+pg$.LgOhJZZe?uqOPEQpZT3G6b*+Y36.$]B?p0cjZ)cAXH(b#S8:HtEA'XKp)qen#M<5cA+sjDhto22S
+dq`;PQX9)qFW4)*\Mm$HpQod[QL[r/t@Yjcbc[=7G"h4Na^Q,Kn!_U@])HhXQOeq/"GI'dSDjW!p^-J+
+3n_0[gD3G0-Kf>%59]S8b_/=)B**rGR.Y=Jh]]AW^]-_>P9/snhmAq+hqPh%o%^r=(1j)f'E\7Zr4]ZZ
+!?MjJr'#/7,NO0?Zj[r)Eh;</r/IKJ:,nQigP"P6jKZI:EG4I&&bs$?]&j9(IffUW%/s(foIsQt+@_t@
+EaSTSaX#Q&WOV5U`I'#0WH-c6<@brpa>.7gCM#R5(!iNV'f>+onHc_>1%H+^38<T3ajt?Wdcs,V5DDqQ
+mhi/1PH`aIK.F*'G*G0$_%Vd;cf-\b?]0u"5HY2RdpO;LB\8!#[$<eBcM*I4$<?"9]M_cK@k:fUA8<sh
+2:i2Tl!?c@nBc/;_HFdh0O]4CFT6s_Ia+)VQB0EFa%OLYq&H)qia:j%GFeoW.fe1EEcXY8(tlnp\lSpL
+"FlNW>oEalC-=c/?%,\W2!EUR1ue.QdRP/>$,Z+-T@mQI4YQVLoXPhL'7@`/hqsY8OH_*7hPFsuk.#]W
+DR(u5/4RaqnqW@kn\Yh>iQs]gDE>LeN_Q-+@E'KMQe6I,#%7j_S"oJD5A+jJ;tUE;Bq_BL%EH5"iBUGU
+!g[dVd<D8i@2kn:2kA,27$=_+VJ?3<LILsb@Xe;uS=Yd1(hV1-"Wq0Dhb/%_d.MQ*md6hGd;bncriI4'
+_G3M`]'6jK&)ol.&j`/6,Lo/kejK4J,UJV>9KBE'QiU;V;))2[c<j<h'oO8%p/S-5UNg*YY)^hh"<GYo
+8(C=RqJ/OJq>#`$,[gF>NtLMXc#i?+]1,FTN/fM98AF]A(t1^.q7QX_9LESSS06d76eN9(K7/\!.C,jg
+jplH;dM>Dq:M"!mRD-_Tm9MK\$if?XqO0gJrn&Cke</gDo\LDQbG]`&Kr<!+1!!pIc`;/;'=k=EqkWhH
+UoR$6>#*SL04gHGYf*X]hpWVWs$ZfT9'XT9e[<c3S>1ZlEAspJ@h`1fi#Y_Z*l*2rFlr^PS'?h-i,3)$
+o=!'a@to^3>5;gV-*N=X]4jk,]9M<ir->/Ec=QT#VWPC.Y(Y"BNA6h-AE">ANfpGE)%XY;8AC4g$,BVM
+VKnMT>M[E]k3XhN8k5TO$qK\f-(R]mRb`mG`&?fTGgl#u$un<`kA\qa:&!l2qs![(3pD!03Z/s,nSoNb
+o6F5O%](?SY^>h)6:1:DD/j/.]!3:M>I.+4\%XaJa7YWFo?4TZQ<HgP2FP%[>S8LuNMikFCt3rm]+ecC
+,OMV*N4Nl4*VEdBQZJ<>H/!>2WKjW=l).:uE%9V"^OZ4Vfrg?-kDr-hTeY]XG`4k*R,jqG#E;.,NVQ3f
+,P/-Ed]C$h/@H?]*&hVA$>Y!,Q_(oRP[>EDn's3h#%CJYoT&T%Bo\`jhJT_K<"EUV]?g+TliYFocGI;c
+i/IQmgTH#)m#C50a.;'lrX>qkkn`WgDGICKKZi%^oH*-f!boZ)PWjq!dZ'ls0dCP-/,[K$4.-g#cb'Y&
+a):OS/$(ohlRt?550$WMaF+e$]_Cg$e!ueF6"eC&Z4k4)#H6)Ff5eJ,aNklL9nrPsbZP^)GoAGPO"j9R
+)NZ_[aR4lRn$E%%Wd=S>qLrmJ"j9[0jLB_/p/mJs0d(UkC,Mg`>Y-825NV_p<Z246F@fo5B:s('%c6_q
+eGb!2H2Pt,/a4XKU@Y47ceib7?qe&eW64#YN*l:VSb2%<Yrc2[o6rk]8,NJ4[7O&94Y`U3VSX.pDaT=3
+.-<YPSmjOKQn\.[<$sOnEO4>1l4Vk'Eq(I@AtIYL;>N5tW:W#+<"D`L5.3M'"ZJqAec)AY2OR0E&]WmZ
+(1X@%`dD>7K<Gu!m&q=;*/u\&'umc0e$d`+`-nk>--"km)e7YONaN:pO"giGJ2-g#N58SN1%tWWN7"@g
+M\[mJZtRj]7>hp5>-qtjU.'tU/R#Mpd@s'f(+i^sB[NPCM\[mJZtRj]7>hp5>-qtjU.'tU/R#Mpd@s'f
+(+i^sB[NPCM\[mJZtRj]7>hp5>-qtjU.'tU/R#Mpd@s'f(+i^sB[NPCM\[mJZtRj]7>hp5>-qtjU.'tU
+/R#Mpq4H`_!Th'4h#
+]]>
+</Image>
+</ImageElement>
+<FieldProperty X="128" Y="3" Width="293" Height="68" VLine="0" VLineColor="-16777216"/>
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionHeader>
+<SectionContent>
+<SectionBand Height="0.6" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionContent>
+<SectionFooter>
+<SectionBand Height="0.3" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionFooter>
+</Section>
+<Table Rows="2" Cols="15" HeaderRow="1" HeaderCol="0" TrailerRow="0" TrailerCol="0">
+<TR>
+<TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+<TR>
+<TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+</Table>
+</SectionElement>
+</Header>
+<SectionElement ID="Section3" Alignment="1" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Dialog-PLAIN-10" Foreground="-16777216" AdhocEnabled="true">
+<property><name><![CDATA[field.name]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.hgap]]></name><value><![CDATA[4]]></value></property>
+<property><name><![CDATA[gen.layout]]></name><value><![CDATA[1]]></value></property>
+<property><name><![CDATA[gen.notGen]]></name><value><![CDATA[true]]></value></property>
+<property><name><![CDATA[gen.removeAll]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.table]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.textbox]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.vgap]]></name><value><![CDATA[2]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<property><name><![CDATA[suppress.blank]]></name><value><![CDATA[false]]></value></property>
+<bindingAttr type="3" adhoc="false" class="BindingAttr">
+<filter class="SourceAttr" type="0" source="XML" prefix="XMLTest">
+<property><name><![CDATA[label]]></name><value><![CDATA[XML]]></value></property>
+<property><name><![CDATA[plabel]]></name><value><![CDATA[XMLTest]]></value></property>
+<property><name><![CDATA[description]]></name><value><![CDATA[XML]]></value></property>
+</filter>
+<filter class="ConditionAttr" >
+<conditions>
+</conditions>
+</filter>
+<filter class="GroupAttr" sorted="false" >
+<aggregates>
+</aggregates>
+<groups>
+</groups>
+</filter>
+<filter class="ColumnSelectionAttr" >
+<property><name><![CDATA[distinct]]></name><value><![CDATA[false]]></value></property>
+<ColumnSelection>
+<dataRef class="inetsoft.report.internal.binding.BaseField" attribute="productid" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[productid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailid" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailflag" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailflag]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.proposalno" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.proposalno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressI" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressI]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressIII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressIII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.pincode" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.pincode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.city" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.city]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.state" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.state]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.mobile" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.mobile]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.email" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.email]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.fax" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.fax]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addresstype" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addresstype]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.binderid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.binderid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="depositorycode" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[depositorycode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="clientid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[clientid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[dpid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[dpname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="branchnumber" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[branchnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="modeofoperation" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[modeofoperation]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customersignature" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[customersignature]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="firstaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[firstaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="isminor" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[isminor]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pan" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pan]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianrelationship" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianrelationship]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="secondaccountholder" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[secondaccountholder]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="thirdaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[thirdaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customernumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[customernumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="telephonenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[telephonenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="mobilenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[mobilenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="faxNumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[faxNumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidquantity" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidquantity]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidprice" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidprice]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationno" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[applicationno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="appliedqty" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[appliedqty]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationamountblocked" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[applicationamountblocked]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidreferencenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidreferencenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="blockedamount" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[blockedamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="allottednoofshares" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[allottednoofshares]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amounttransfered" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amounttransfered]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amountRefund" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amountRefund]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="status" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[status]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondate" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondesc" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.withdrawamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.depositamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.balanceamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field1" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field1]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field2" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field2]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field3" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field3]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field4" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field4]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field5" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field5]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field6" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field6]]></view>
+</dataRef></ColumnSelection>
+<ColumnSelection>
+<dataRef class="inetsoft.report.internal.binding.BaseField" attribute="productid" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[productid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailid" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailflag" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailflag]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.proposalno" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.proposalno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressI" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressI]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressIII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressIII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.pincode" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.pincode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.city" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.city]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.state" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.state]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.mobile" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.mobile]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.email" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.email]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.fax" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.fax]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addresstype" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addresstype]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.binderid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.binderid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="depositorycode" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[depositorycode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="clientid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[clientid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[dpid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[dpname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="branchnumber" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[branchnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="modeofoperation" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[modeofoperation]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customersignature" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[customersignature]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="firstaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[firstaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="isminor" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[isminor]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pan" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pan]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianrelationship" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianrelationship]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="secondaccountholder" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[secondaccountholder]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="thirdaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[thirdaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customernumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[customernumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="telephonenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[telephonenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="mobilenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[mobilenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="faxNumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[faxNumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidquantity" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidquantity]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidprice" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidprice]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationno" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[applicationno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="appliedqty" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[appliedqty]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationamountblocked" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[applicationamountblocked]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidreferencenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidreferencenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="blockedamount" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[blockedamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="allottednoofshares" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[allottednoofshares]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amounttransfered" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amounttransfered]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amountRefund" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amountRefund]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="status" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[status]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondate" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondesc" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.withdrawamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.depositamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.balanceamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field1" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field1]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field2" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field2]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field3" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field3]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field4" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field4]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field5" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field5]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field6" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field6]]></view>
+</dataRef></ColumnSelection>
+<allRows>
+</allRows>
+</filter>
+<bindingOption class="SectionOption" grandTotal="true" >
+</bindingOption>
+</bindingAttr>
+<Section>
+<SectionHeader>
+<SectionBand Height="1.175" Visible="true" ShrinkToFit="true" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="true" TopBorder="0" LeftBorder="0" Breakable="false" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="4">
+<TextElement ID="Text86" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<script><![CDATA[value="Date : "+formatDate(today(),'dd-MM-yyyy');]]></script>
+<![CDATA[]]>
+</TextElement>
+<FieldProperty X="6" Y="6" Width="217" Height="11" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text3" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<script><![CDATA[value='Dear Mr./Ms '+upper(trim(iif(isNull(field['firstaccountholdername']),' ',field['firstaccountholdername'])));]]></script>
+<![CDATA[]]>
+</TextElement>
+<FieldProperty X="6" Y="26" Width="313" Height="11" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text2" Alignment="1" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<![CDATA[We value your relationship with RBL Bank.]]>
+</TextElement>
+<FieldProperty X="6" Y="48" Width="538" Height="11" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text5" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="true" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<script><![CDATA[value='We attach your ASBA transaction statement .The statement approved by the Registrar to the Issue.Your Application number is '+iif(isNull(field['applicationno']),' ',field['applicationno']);]]></script>
+<![CDATA[]]>
+</TextElement>
+<FieldProperty X="6" Y="65" Width="527" Height="11" VLine="0" VLineColor="-16777216"/>
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionHeader>
+<SectionContent>
+<SectionBand Height="0.6" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionContent>
+<SectionFooter>
+<SectionBand Height="0.3" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionFooter>
+</Section>
+<Table Rows="2" Cols="59" HeaderRow="1" HeaderCol="0" TrailerRow="0" TrailerCol="0">
+<TR>
+<TD Type="string"><![CDATA[productid]]></TD><TD Type="string"><![CDATA[emailid]]></TD><TD Type="string"><![CDATA[emailflag]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.proposalno]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressI]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressII]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressIII]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.pincode]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.city]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.state]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.mobile]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.email]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.fax]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addresstype]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.binderid]]></TD><TD Type="string"><![CDATA[depositorycode]]></TD><TD Type="string"><![CDATA[clientid]]></TD><TD Type="string"><![CDATA[dpid]]></TD><TD Type="string"><![CDATA[dpname]]></TD><TD Type="string"><![CDATA[branchnumber]]></TD><TD Type="string"><![CDATA[modeofoperation]]></TD><TD Type="string"><![CDATA[customersignature]]></TD><TD Type="string"><![CDATA[firstaccountholdername]]></TD><TD Type="string"><![CDATA[isminor]]></TD><TD Type="string"><![CDATA[pan]]></TD><TD Type="string"><![CDATA[guardianname]]></TD><TD Type="string"><![CDATA[guardianrelationship]]></TD><TD Type="string"><![CDATA[secondaccountholder]]></TD><TD Type="string"><![CDATA[thirdaccountholdername]]></TD><TD Type="string"><![CDATA[customernumber]]></TD><TD Type="string"><![CDATA[telephonenumber]]></TD><TD Type="string"><![CDATA[mobilenumber]]></TD><TD Type="string"><![CDATA[faxNumber]]></TD><TD Type="string"><![CDATA[bidquantity]]></TD><TD Type="string"><![CDATA[bidprice]]></TD><TD Type="string"><![CDATA[bidamount]]></TD><TD Type="string"><![CDATA[applicationno]]></TD><TD Type="string"><![CDATA[appliedqty]]></TD><TD Type="string"><![CDATA[applicationamountblocked]]></TD><TD Type="string"><![CDATA[bidreferencenumber]]></TD><TD Type="string"><![CDATA[blockedamount]]></TD><TD Type="string"><![CDATA[allottednoofshares]]></TD><TD Type="string"><![CDATA[amounttransfered]]></TD><TD Type="string"><![CDATA[amountRefund]]></TD><TD Type="string"><![CDATA[status]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]></TD><TD Type="string"><![CDATA[field1]]></TD><TD Type="string"><![CDATA[field2]]></TD><TD Type="string"><![CDATA[field3]]></TD><TD Type="string"><![CDATA[field4]]></TD><TD Type="string"><![CDATA[field5]]></TD><TD Type="string"><![CDATA[field6]]></TD></TR>
+<TR>
+<TD Type="byte"><![CDATA[99]]></TD><TD Type="string"><![CDATA[XXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="byte"><![CDATA[99]]></TD><TD Type="short"><![CDATA[999]]></TD><TD Type="short"><![CDATA[999]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXX]]></TD><TD Type="string"><![CDATA[XXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="short"><![CDATA[999]]></TD><TD Type="short"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="byte"><![CDATA[99]]></TD><TD Type="byte"><![CDATA[99]]></TD><TD Type="short"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="byte"><![CDATA[99]]></TD><TD Type="short"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXXXX]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="integer"><![CDATA[999]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD><TD Type="string"><![CDATA[XXXXXX]]></TD></TR>
+</Table>
+</SectionElement>
+<SectionElement ID="Section5" Alignment="1" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Dialog-PLAIN-10" Foreground="-16777216" AdhocEnabled="true">
+<property><name><![CDATA[field.name]]></name><value><![CDATA[true]]></value></property>
+<property><name><![CDATA[gen.hgap]]></name><value><![CDATA[4]]></value></property>
+<property><name><![CDATA[gen.layout]]></name><value><![CDATA[1]]></value></property>
+<property><name><![CDATA[gen.notGen]]></name><value><![CDATA[true]]></value></property>
+<property><name><![CDATA[gen.removeAll]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.table]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.textbox]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[gen.vgap]]></name><value><![CDATA[2]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<property><name><![CDATA[suppress.blank]]></name><value><![CDATA[false]]></value></property>
+<bindingAttr type="3" adhoc="false" class="BindingAttr">
+<filter class="SourceAttr" type="0" source="XML" prefix="XMLTest">
+<property><name><![CDATA[label]]></name><value><![CDATA[XML]]></value></property>
+<property><name><![CDATA[plabel]]></name><value><![CDATA[XMLTest]]></value></property>
+<property><name><![CDATA[description]]></name><value><![CDATA[XML]]></value></property>
+</filter>
+<filter class="ConditionAttr" >
+<conditions>
+</conditions>
+</filter>
+<filter class="GroupAttr" sorted="false" >
+<aggregates>
+</aggregates>
+<groups>
+</groups>
+</filter>
+<filter class="ColumnSelectionAttr" >
+<property><name><![CDATA[distinct]]></name><value><![CDATA[false]]></value></property>
+<ColumnSelection>
+<dataRef class="inetsoft.report.internal.binding.BaseField" attribute="productid" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[productid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailid" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailflag" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailflag]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.proposalno" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.proposalno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressI" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressI]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressIII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressIII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.pincode" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.pincode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.city" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.city]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.state" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.state]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.mobile" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.mobile]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.email" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.email]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.fax" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.fax]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addresstype" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addresstype]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.binderid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.binderid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="depositorycode" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[depositorycode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="clientid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[clientid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[dpid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[dpname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="branchnumber" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[branchnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="modeofoperation" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[modeofoperation]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customersignature" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[customersignature]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="firstaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[firstaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="isminor" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[isminor]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pan" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pan]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianrelationship" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianrelationship]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="secondaccountholder" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[secondaccountholder]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="thirdaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[thirdaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customernumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[customernumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="telephonenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[telephonenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="mobilenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[mobilenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="faxNumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[faxNumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidquantity" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidquantity]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidprice" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidprice]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationno" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[applicationno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="appliedqty" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[appliedqty]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationamountblocked" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[applicationamountblocked]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidreferencenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidreferencenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="blockedamount" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[blockedamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="allottednoofshares" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[allottednoofshares]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amounttransfered" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amounttransfered]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amountRefund" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amountRefund]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="status" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[status]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondate" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondesc" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.withdrawamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.depositamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.balanceamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field1" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field1]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field2" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field2]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field3" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field3]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field4" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field4]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field5" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field5]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field6" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field6]]></view>
+</dataRef></ColumnSelection>
+<ColumnSelection>
+<dataRef class="inetsoft.report.internal.binding.BaseField" attribute="productid" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[productid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailid" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="emailflag" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[emailflag]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.proposalno" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.proposalno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressI" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressI]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addressIII" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressIII]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.pincode" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.pincode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.city" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.city]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.state" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.state]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.mobile" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.mobile]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.email" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.email]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.fax" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.fax]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.addresstype" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addresstype]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgaddressdetailslist.pkgaddressdetails.binderid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgaddressdetailslist.pkgaddressdetails.binderid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="depositorycode" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[depositorycode]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="clientid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[clientid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpid" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[dpid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="dpname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[dpname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="branchnumber" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[branchnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="modeofoperation" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[modeofoperation]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customersignature" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[customersignature]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="firstaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[firstaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="isminor" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[isminor]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pan" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pan]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianname" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianname]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="guardianrelationship" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[guardianrelationship]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="secondaccountholder" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[secondaccountholder]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="thirdaccountholdername" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[thirdaccountholdername]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="customernumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[customernumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="telephonenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[telephonenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="mobilenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[mobilenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="faxNumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[faxNumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidquantity" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidquantity]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidprice" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[bidprice]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationno" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[applicationno]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="appliedqty" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[appliedqty]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="applicationamountblocked" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[applicationamountblocked]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="bidreferencenumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[bidreferencenumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="blockedamount" description="" visible="true" groupField="false" dataType="byte" order="0" ><view><![CDATA[blockedamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="allottednoofshares" description="" visible="true" groupField="false" dataType="short" order="0" ><view><![CDATA[allottednoofshares]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amounttransfered" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amounttransfered]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="amountRefund" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[amountRefund]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="status" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[status]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondate" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactiondesc" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.transactionid" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.withdrawamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.depositamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="pkgtransactiondetailslist.pkgtransactionslist.balanceamount" description="" visible="true" groupField="false" dataType="integer" order="0" ><view><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field1" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field1]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field2" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field2]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field3" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field3]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field4" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field4]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field5" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field5]]></view>
+</dataRef><dataRef class="inetsoft.report.internal.binding.BaseField" attribute="field6" description="" visible="true" groupField="false" dataType="string" order="0" ><view><![CDATA[field6]]></view>
+</dataRef></ColumnSelection>
+<allRows>
+</allRows>
+</filter>
+<bindingOption class="SectionOption" grandTotal="true" >
+</bindingOption>
+</bindingAttr>
+<Section>
+<SectionHeader>
+<SectionBand Height="3.2361112" Visible="true" ShrinkToFit="true" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="true" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="5">
+<TextElement ID="Text1" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-BOLD-10" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<![CDATA[Bid details for your reference]]>
+</TextElement>
+<FieldProperty X="6" Y="3" Width="423" Height="14" VLine="0" VLineColor="-16777216"/>
+<TableElement ID="Table2" Alignment="2" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-12" Foreground="-16777216" TableWidth="0.0" AdhocEnabled="true" Layout="2" TableAdvance="1" MaxColWidth="0.0" OrphanControl="false" FillPage="false" MultiColumn="0" KeepSpanTogether="false" KeepGroupTogether="false" Padding="2,2,1,2" EmbedWidth="false" Embedded="true">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<script><![CDATA[Table2.table[1][0]=iif(isNull(field['bidquantity']),' ',field['bidquantity']);
+Table2.table[1][1]=iif(isNull(field['bidprice']),' ',IndCurFrmt(field['bidprice']));
+Table2.table[1][2]=iif(isNull(field['bidamount']),' ',IndCurFrmt(field['bidamount']));
+Table2.table[2][2] =iif(isNull(field['blockedamount']),' ',IndCurFrmt(field['blockedamount']));]]></script>
+<tableDataAttr>
+<tableFormatAttr>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,0]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="12" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [2,2]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="20" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,0]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="18" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,2]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="20" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [2,1]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="9" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,2]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="18" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,1]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="20" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [2,0]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="9" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,1]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="18" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+</tableFormatAttr>
+</tableDataAttr>
+<Table Rows="3" Cols="3" HeaderRow="0" HeaderCol="0" TrailerRow="0" TrailerCol="0">
+<TR Height="15">
+<TD Type="string"><![CDATA[Bid Quantity]]></TD><TD Type="string"><![CDATA[Bid Price]]></TD><TD Type="string"><![CDATA[Bid Amount]]></TD></TR>
+<TR Height="16">
+<TD Type="null"><![CDATA[null]]></TD><TD Type="string"><![CDATA[:]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+<TR Height="15">
+<TD Span="2x1" Type="string"><![CDATA[Blocked Amount]]></TD><TD Type="string"><![CDATA[:]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+</Table>
+</TableElement>
+<FieldProperty X="66" Y="31" Width="337" Height="67" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text116" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-BOLD-11" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<![CDATA[Allotment Details]]>
+</TextElement>
+<FieldProperty X="6" Y="124" Width="376" Height="14" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text117" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<script><![CDATA[value='Account'+iif(isNull(field['Alert.CustomerAccNumber']),' ',field['Alert.CustomerAccNumber'])+'of Dear Mr./Ms '+upper(trim(iif(isNull(field['firstaccountholdername']),' ',field['firstaccountholdername'])));]]></script>
+<![CDATA[]]>
+</TextElement>
+<FieldProperty X="6" Y="146" Width="534" Height="11" VLine="0" VLineColor="-16777216"/>
+<TableElement ID="Table5" Alignment="2" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-12" Foreground="-16777216" TableWidth="0.0" AdhocEnabled="true" Layout="2" TableAdvance="1" MaxColWidth="0.0" OrphanControl="false" FillPage="false" MultiColumn="0" KeepSpanTogether="false" KeepGroupTogether="false" Padding="2,2,1,2" EmbedWidth="false" Embedded="true">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<script><![CDATA[Table5.table[1][0]=iif(isNull(field['allottednoofshares']),' ',field['allottednoofshares']);
+Table5.table[1][1]=iif(isNull(field['amounttransfered']),' ',IndCurFrmt(field['amounttransfered']));
+Table5.table[1][2]=iif(isNull(field['amountRefund']),' ',IndCurFrmt(field['amountRefund']));
+Table5.table[1][3] =iif(isNull(field['status']),' ',field['status']);]]></script>
+<tableDataAttr>
+<tableFormatAttr>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,1]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="20" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,0]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="17" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,2]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="20" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,1]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="18" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,3]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="20" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,2]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="18" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [0,3]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-10" alignment="18" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+<aTableFormat>
+<tableDataPath>
+<level>-1</level>
+<index>0</index>
+<col>false</col>
+<row>false</row>
+<type>512</type>
+<dtype>string</dtype>
+<path>
+<aPath><![CDATA[Cell [1,0]]]></aPath>
+</path>
+</tableDataPath>
+<tableFormat  font="Arial-PLAIN-9" alignment="12" topBorder="528384" leftBorder="528384" bottomBorder="528384" rightBorder="528384" linewrap="true" suppressIfZero="false" suppressIfDuplicate="false" pageBefore="false" pageAfter="false">
+</tableFormat>
+</aTableFormat>
+</tableFormatAttr>
+</tableDataAttr>
+<Table Rows="2" Cols="4" HeaderRow="0" HeaderCol="0" TrailerRow="0" TrailerCol="0">
+<TR Height="23">
+<TD Type="string"><![CDATA[Allotted No of Shares]]></TD><TD Type="string"><![CDATA[Amount transfered]]></TD><TD Type="string"><![CDATA[Amount Refund]]></TD><TD Type="string"><![CDATA[Status]]></TD></TR>
+<TR Height="16">
+<TD Type="null"><![CDATA[null]]></TD><TD Type="string"><![CDATA[:]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+</Table>
+</TableElement>
+<FieldProperty X="23" Y="173" Width="465" Height="50" VLine="0" VLineColor="-16777216"/>
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionHeader>
+<SectionContent>
+<SectionBand Height="0.6" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionContent>
+<SectionFooter>
+<SectionBand Height="0.3" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionFooter>
+</Section>
+<Table Rows="2" Cols="59" HeaderRow="1" HeaderCol="0" TrailerRow="0" TrailerCol="0">
+<TR>
+<TD Type="string"><![CDATA[productid]]></TD><TD Type="string"><![CDATA[emailid]]></TD><TD Type="string"><![CDATA[emailflag]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.proposalno]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressI]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressII]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addressIII]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.pincode]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.city]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.state]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.mobile]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.email]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.fax]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.addresstype]]></TD><TD Type="string"><![CDATA[pkgaddressdetailslist.pkgaddressdetails.binderid]]></TD><TD Type="string"><![CDATA[depositorycode]]></TD><TD Type="string"><![CDATA[clientid]]></TD><TD Type="string"><![CDATA[dpid]]></TD><TD Type="string"><![CDATA[dpname]]></TD><TD Type="string"><![CDATA[branchnumber]]></TD><TD Type="string"><![CDATA[modeofoperation]]></TD><TD Type="string"><![CDATA[customersignature]]></TD><TD Type="string"><![CDATA[firstaccountholdername]]></TD><TD Type="string"><![CDATA[isminor]]></TD><TD Type="string"><![CDATA[pan]]></TD><TD Type="string"><![CDATA[guardianname]]></TD><TD Type="string"><![CDATA[guardianrelationship]]></TD><TD Type="string"><![CDATA[secondaccountholder]]></TD><TD Type="string"><![CDATA[thirdaccountholdername]]></TD><TD Type="string"><![CDATA[customernumber]]></TD><TD Type="string"><![CDATA[telephonenumber]]></TD><TD Type="string"><![CDATA[mobilenumber]]></TD><TD Type="string"><![CDATA[faxNumber]]></TD><TD Type="string"><![CDATA[bidquantity]]></TD><TD Type="string"><![CDATA[bidprice]]></TD><TD Type="string"><![CDATA[bidamount]]></TD><TD Type="string"><![CDATA[applicationno]]></TD><TD Type="string"><![CDATA[appliedqty]]></TD><TD Type="string"><![CDATA[applicationamountblocked]]></TD><TD Type="string"><![CDATA[bidreferencenumber]]></TD><TD Type="string"><![CDATA[blockedamount]]></TD><TD Type="string"><![CDATA[allottednoofshares]]></TD><TD Type="string"><![CDATA[amounttransfered]]></TD><TD Type="string"><![CDATA[amountRefund]]></TD><TD Type="string"><![CDATA[status]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]></TD><TD Type="string"><![CDATA[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]></TD><TD Type="string"><![CDATA[field1]]></TD><TD Type="string"><![CDATA[field2]]></TD><TD Type="string"><![CDATA[field3]]></TD><TD Type="string"><![CDATA[field4]]></TD><TD Type="string"><![CDATA[field5]]></TD><TD Type="string"><![CDATA[field6]]></TD></TR>
+<TR>
+<TD Type="string"><![CDATA[[productid]]]></TD><TD Type="string"><![CDATA[[emailid]]]></TD><TD Type="string"><![CDATA[[emailflag]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.proposalno]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.addressI]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.addressII]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.addressIII]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.pincode]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.city]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.state]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.mobile]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.email]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.fax]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.addresstype]]]></TD><TD Type="string"><![CDATA[[pkgaddressdetailslist.pkgaddressdetails.binderid]]]></TD><TD Type="string"><![CDATA[[depositorycode]]]></TD><TD Type="string"><![CDATA[[clientid]]]></TD><TD Type="string"><![CDATA[[dpid]]]></TD><TD Type="string"><![CDATA[[dpname]]]></TD><TD Type="string"><![CDATA[[branchnumber]]]></TD><TD Type="string"><![CDATA[[modeofoperation]]]></TD><TD Type="string"><![CDATA[[customersignature]]]></TD><TD Type="string"><![CDATA[[firstaccountholdername]]]></TD><TD Type="string"><![CDATA[[isminor]]]></TD><TD Type="string"><![CDATA[[pan]]]></TD><TD Type="string"><![CDATA[[guardianname]]]></TD><TD Type="string"><![CDATA[[guardianrelationship]]]></TD><TD Type="string"><![CDATA[[secondaccountholder]]]></TD><TD Type="string"><![CDATA[[thirdaccountholdername]]]></TD><TD Type="string"><![CDATA[[customernumber]]]></TD><TD Type="string"><![CDATA[[telephonenumber]]]></TD><TD Type="string"><![CDATA[[mobilenumber]]]></TD><TD Type="string"><![CDATA[[faxNumber]]]></TD><TD Type="string"><![CDATA[[bidquantity]]]></TD><TD Type="string"><![CDATA[[bidprice]]]></TD><TD Type="string"><![CDATA[[bidamount]]]></TD><TD Type="string"><![CDATA[[applicationno]]]></TD><TD Type="string"><![CDATA[[appliedqty]]]></TD><TD Type="string"><![CDATA[[applicationamountblocked]]]></TD><TD Type="string"><![CDATA[[bidreferencenumber]]]></TD><TD Type="string"><![CDATA[[blockedamount]]]></TD><TD Type="string"><![CDATA[[allottednoofshares]]]></TD><TD Type="string"><![CDATA[[amounttransfered]]]></TD><TD Type="string"><![CDATA[[amountRefund]]]></TD><TD Type="string"><![CDATA[[status]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.transactiondate]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.transactiondesc]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.transactionamount]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.transactionid]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.instrumentnumber]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.withdrawamount]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.depositamount]]]></TD><TD Type="string"><![CDATA[[pkgtransactiondetailslist.pkgtransactionslist.balanceamount]]]></TD><TD Type="string"><![CDATA[[field1]]]></TD><TD Type="string"><![CDATA[[field2]]]></TD><TD Type="string"><![CDATA[[field3]]]></TD><TD Type="string"><![CDATA[[field4]]]></TD><TD Type="string"><![CDATA[[field5]]]></TD><TD Type="string"><![CDATA[[field6]]]></TD></TR>
+</Table>
+</SectionElement>
+<SectionElement ID="Section8" Alignment="1" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Dialog-PLAIN-10" Foreground="-16777216" AdhocEnabled="true">
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<Section>
+<SectionHeader>
+<SectionBand Height="5.097223" Visible="true" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="5">
+<TextElement ID="Text95" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[true]]></value></property>
+<![CDATA[In case of any clarification you may contact your nearest ASBA authorised RBL Bank Branch or may call our Toll free No.
+
+Thanking you and assuring you of our best services.]]>
+</TextElement>
+<FieldProperty X="6" Y="12" Width="538" Height="38" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text119" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[false]]></value></property>
+<![CDATA[Yours faithfully,]]>
+</TextElement>
+<FieldProperty X="6" Y="106" Width="197" Height="11" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text120" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-BOLD-10" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0" Justify="false" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[false]]></value></property>
+<![CDATA[Customer Services
+ RBL Bank Ltd.]]>
+</TextElement>
+<FieldProperty X="6" Y="130" Width="195" Height="24" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text70" Alignment="65" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0" Justify="true" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[false]]></value></property>
+<![CDATA[ASBA (Application Supported by Blocked Amount) is a facility provided by banks to investors in Initial Public Offerings (IPO's), Follow-on Public Offers (FPO's) and New Fund Offers (NFO's) of mutual funds.]]>
+</TextElement>
+<FieldProperty X="6" Y="180" Width="549" Height="28" VLine="0" VLineColor="-16777216"/>
+<TextElement ID="Text115" Alignment="1" Indent="0.0" Hindent="0" Spacing="0" Visible="true" HideOnPrint="false" KeepWithNext="false" Font="Arial-PLAIN-9" Foreground="-16777216" FillStyle="0" TabStops="0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0" Justify="true" Orphan="false" TextAdvance="3">
+<property><name><![CDATA[adjust.height]]></name><value><![CDATA[false]]></value></property>
+<property><name><![CDATA[grow]]></name><value><![CDATA[false]]></value></property>
+<![CDATA[If you apply for an IPO/NFO via ASBA, your application amount gets blocked in your bank account. While the amount stays in bank account, it cannot be withdrawn until the share/MF unit allotment is done. The money will be debited from your bank account only if your application is selected for allotment. The sum to be debited shall depend on the number of shares/MF units allotted to you and the remaining amount, if any, shall be unblocked in due course and shall continue at RBL Bank’s card rate, unless withdrawn.]]>
+</TextElement>
+<FieldProperty X="6" Y="215" Width="549" Height="66" VLine="0" VLineColor="-16777216"/>
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionHeader>
+<SectionContent>
+<SectionBand Height="0.6" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionContent>
+<SectionFooter>
+<SectionBand Height="0.3" Visible="false" ShrinkToFit="false" PageBefore="false" PageAfter="false" forceNewPage="false" SuppressBlank="false" TopBorder="0" LeftBorder="0" Breakable="true" RepeatHeader="false" Underlay="false" AtBottom="false" KeepTogether="false" BottomBorder="0" RightBorder="0" OrphanControl="false" Elements="0">
+<Shapes>
+</Shapes>
+</SectionBand>
+</SectionFooter>
+</Section>
+<Table Rows="2" Cols="15" HeaderRow="1" HeaderCol="0" TrailerRow="0" TrailerCol="0">
+<TR>
+<TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+<TR>
+<TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD><TD Type="null"><![CDATA[null]]></TD></TR>
+</Table>
+</SectionElement>
+</Report>
